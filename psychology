@@ -1,0 +1,404 @@
+AQA A-Level Psychology — Complete Question-Type Cheat Sheet & AI System Prompt
+Purpose: Give this entire document to any AI model as context. It contains every AQA A-Level Psychology question type, the exact mark allocation, recommended structures, model answers, and examiner commentary so the AI can produce exam-grade responses for any question.
+
+Table of Contents
+Overview of Assessment Objectives
+Question Types at a Glance
+Statistical Test Questions (4 & 7 marks)
+Critical Value / Significance Tables (4 marks)
+8-Mark Essays (No Application)
+8-Mark Essays (With Application / Stem)
+12-Mark Research Design Questions
+16-Mark Essays (No Application)
+16-Mark Essays (With Application / Stem)
+Statistical Tests Reference Table
+Key Evaluation Acronyms & Frameworks
+General Exam Technique Rules
+1. Overview of Assessment Objectives
+AO	What It Tests	What to Do
+AO1	Knowledge & Understanding	Describe, outline, identify, state theories/studies/concepts with key terminology
+AO2	Application	Apply psychological knowledge to a novel scenario/stem — do NOT just quote the stem; explain WHY the behaviour fits the theory
+AO3	Analysis & Evaluation	Evaluate using PEEL (Point, Evidence, Explain, Link) — strengths, limitations, methodological issues, supporting/contradicting research, real-world applications, ethical issues
+2. Question Types at a Glance
+Marks	Type	AO Split	Time (approx.)	Word Count Target
+4	Statistical test (no context)	AO2	3–4 min	~80 words
+4	Critical value / significance	AO2	3–4 min	~60 words
+7	Statistical test (with context)	AO2	6–7 min	~120 words
+8	Essay (no application)	AO1=3, AO3=5	10 min	~250 words
+8	Essay (with application)	AO1=3, AO2=2, AO3=3	10 min	~225 words
+12	Research design	AO1/AO2/AO3 mixed	15 min	~300 words
+12	Essay (no application)	AO1=6, AO3=6	15 min	~350 words
+16	Essay (no application)	AO1=6, AO3=10	20 min	~500 words
+16	Essay (with application)	AO1=6, AO2=4, AO3=6	20 min	~510 words
+3. Statistical Test Questions
+3A. 4-Mark Version (No Context Required)
+Structure:
+
+Identification (1 mark): State the name of the test
+Justification 1 — Test type (1 mark): Is the researcher looking for a difference or a correlation/association?
+Justification 2 — Design (1 mark): Is it independent groups (unrelated) or repeated measures/matched pairs (related)? OR is it a correlational design?
+Justification 3 — Data type (1 mark): Is the data nominal (categories), ordinal (ordered/ranked/rating scales), or interval/ratio (measurable with equal intervals)?
+Model Answer:
+
+A psychology teacher conducted an independent groups experiment with 30 students using a happiness questionnaire.
+
+Answer:
+
+The most appropriate test is the Mann-Whitney U test.
+
+This is because:
+
+The teacher is looking for a difference (between the two groups' happiness scores)
+It is an independent groups design (different participants in each group)
+She collected ordinal data (happiness questionnaire produces ranked/ordered data)
+3B. 7-Mark Version (With Context Required)
+Structure:
+
+Identification (1 mark): Name the statistical test
+Justification 1 + Context (2 marks): State whether looking for difference/correlation AND link explicitly to the study
+Justification 2 + Context (2 marks): State the design AND explain why using study details
+Justification 3 + Context (2 marks): State the data type AND explain why using study details
+Each justification = 1 mark for the reason + 1 mark for applying to the scenario. You MUST contextualise each point.
+
+Model Answer:
+
+A psychologist tested the effects of recreational screen time on children's academic performance. 58 pupils randomly allocated to Group A (no screen time) or Group B (unrestricted screen time). All completed a 45-minute class test.
+
+Answer:
+
+The most appropriate test is the Mann-Whitney U test.
+
+This is because:
+
+The teacher is looking for a difference — specifically, between no recreational screen time and unlimited recreational screen time on exam performance
+It is an independent groups design — as the pupils either had no recreational screen time OR unlimited recreational screen time (they were in one group only)
+She collected ordinal data — as the difference between each test score is not fixed (test scores from a class test are ranked/ordered data)
+Examiner Commentary:
+
+This receives full marks (7/7) as the statistical test is correctly identified for 1 mark along with three correct justifications for 3 marks. Each justification is explicitly linked to the study and therefore receives a further 3 marks.
+
+4. Critical Value / Significance Table Questions
+Structure (4 marks):
+
+Identify the critical value (1 mark): State the exact number from the table
+Justify — One-tailed or two-tailed (1 mark): Is the hypothesis directional (one-tailed) or non-directional (two-tailed)?
+Justify — N or df value (1 mark): State the number of participants / degrees of freedom
+Justify — Significance level (1 mark): State the p-value (e.g., 0.05)
+Key Rules for Reading Tables:
+
+Check whether calculated value must be ≥ critical value (Spearman's, Pearson's, Chi-squared) or ≤ critical value (Mann-Whitney, Wilcoxon, Sign test) to be significant
+One-tailed = directional hypothesis (predicts a specific direction)
+Two-tailed = non-directional hypothesis (predicts a difference/correlation but not direction)
+Model Answer:
+
+A researcher hypothesised a positive correlation between hours slept and feeling rested. N = 18, one-tailed, p ≤ 0.05. Calculated rho = 0.395. The critical value for rho must be ≥ calculated value.
+
+Answer:
+
+The critical value is 0.401.
+
+This is because:
+
+The hypothesis is directional (positive correlation), so it is a one-tailed test
+There are 18 participants, so N = 18
+The level of significance is 0.05 (5%)
+Since the calculated value (0.395) is less than the critical value (0.401), the result is not significant and we must retain the null hypothesis.
+
+5. 8-Mark Essays (No Application)
+Mark Split: AO1 = 3, AO3 = 5
+
+Structure:
+
+Paragraph	Content	AO
+1	Define/describe the theory or concept with key terminology	AO1
+2	Further explanation with a specific example from psychology	AO1
+3	PEEL: Strength (e.g., supporting research, real-world application)	AO3
+4	PEEL: Limitation (e.g., methodological issues, ethical problems, counterpoint)	AO3
+Model Answer:
+
+Outline and evaluate reductionist explanations in psychology. [8 marks]
+
+Reductionism involves explaining a complex behaviour or phenomenon (e.g., depression) in terms of constituent parts.
+
+There are different types of reductionism. Biological reductionism is based on the idea that all behaviour is at some level biological and so can be explained through neurochemical and genetic influences. For example, the biological explanation of depression is reductionist, as it explains the disorder as being the result of an imbalance of serotonin linked to genetics. By isolating one component of depression (the 5HT1-D receptor), a researcher can design a study to test the isolated variable (hypothesis-testing).
+
+A strength of reductionist explanations is that they often form the basis of scientific research. In order to create operationalised variables, it is necessary to break target behaviours (e.g., depression or phobias) down into constituent parts. This makes it possible to conduct experiments in a way that is meaningful and reliable. This is a strength because it gives psychology greater credibility, placing it on equal terms with the natural sciences.
+
+However, reductionist approaches have been accused of oversimplifying complex phenomena as they do not include an analysis of the social context within which behaviour occurs. For example, the physiological act of pointing one's finger will be the same regardless of the context. However, we don't know why the finger is pointed (it could be an act of aggression or to draw attention to something). This means that reductionist explanations can only ever form part of an explanation, leading to a loss of validity.
+
+(248 words — Level 4: 7–8 marks)
+
+Examiner Commentary:
+
+Top band because it shows thorough understanding of reductionist explanations. Coherent structure, focused on the question, good use of key terms, includes a psychology example. Evaluation is effective — each point is introduced, elaborated, and linked back.
+
+6. 8-Mark Essays (With Application / Stem)
+Mark Split: AO1 = 3, AO2 = 2, AO3 = 3
+
+Structure:
+
+Paragraph	Content	AO
+1	Briefly outline the theory/model (first element)	AO1
+2	Continue outlining the theory with examples and key terms	AO1
+3	Apply the theory to the stem — explain WHY the behaviour in the scenario fits the theory (do NOT just quote the stem)	AO2
+4	PEEL: Evaluation point with research evidence, linked back to the question	AO3
+Model Answer:
+
+Ellis proposed an ABC model of depression. Outline and evaluate the ABC model of depression. Refer to this diary extract in your answer. [8 marks]
+
+Diary: "Managed to drag myself out of the house yesterday but wished I hadn't. Went to the shop but dropped my change at the till. Everybody knew I was useless. Why can I not do anything right? No one else I know does such stupid things."
+
+The ABC model explains how irrational thoughts affect our behaviour and emotions. Ellis (1962) argued that depression is caused by irrational thoughts, which are triggered by negative external events. This is known as the activating event (A).
+
+An event, such as failing an important test, may trigger irrational beliefs (B) such as "I must always succeed"; Ellis called this musturbation. As a result, there are emotional and behavioural consequences (C), such as low self-esteem and social withdrawal, i.e., depression symptoms.
+
+In the diary entry above, the activating event was the individual dropping change at the till. This triggered irrational beliefs such as "they all knew I was useless" and "no one else does such stupid things." The emotional and behavioural consequences of these beliefs are a continued cycle of depression whereby the individual may never leave the house again.
+
+A strength of Ellis' ABC model of depression is that it has practical applications as it has led to successful therapy, i.e., REBT. The idea that, by identifying and disputing irrational beliefs, a person can reduce their depression is supported by research evidence, such as Lipskey et al. (1980), who found a correlation between changes in beliefs and changes in emotional distress. This in turn supports the basic theory because it suggests that the irrational beliefs played a role in the development of depression.
+
+(225 words — Level 4: 7–8 marks)
+
+Examiner Commentary:
+
+Top band. Detailed AO1 with key terms. Application is effective — diary content is linked to theory (not just quoted). Evaluation elaborated with research findings and linked back.
+
+Critical Rule for AO2 Application:
+
+Do NOT just repeat the stem. You must create an explanatory link — explain WHY the behaviour/situation in the stem fits the theory. E.g., "The activating event was dropping change at the till, which triggered the irrational belief that 'everybody knew I was useless,' demonstrating Ellis's concept of musturbation."
+
+7. 12-Mark Research Design Questions
+Mark Split: Varies — typically all three AOs tested
+
+Structure: Answer EVERY bullet point in the question. Use subheadings matching the question prompts.
+
+Common Prompts & What to Include:
+
+Prompt	What to Write
+Task for participants	Describe the specific task, duration, instructions given, how standardisation is ensured
+Behavioural categories & recording	List specific observable behaviours, describe the recording method (tally chart, behaviour checklist), state sampling method (event/time sampling)
+Reliability	Describe inter-observer reliability — two observers independently record, correlate their tallies, +0.8 = high reliability
+Ethical issues	Informed consent (consent form with details), right to withdraw (at any time, no penalty), confidentiality (data anonymised), debrief
+Sampling method	Describe how and why (e.g., opportunity, random, volunteer)
+Variables	Identify IV, DV, and how they are operationalised
+Controls	Describe standardised procedures, extraneous variables, demand characteristics
+Model Answer:
+
+Design an observation study to investigate sex differences in non-verbal behaviour when giving a presentation. [12 marks]
+
+Task for participants:
+
+Ask participants to give a presentation to 10 audience members on a hobby they participate in
+They will plan and deliver a 5-minute presentation called "My Hobby"
+They can only use hand-held prompt cards
+All given the same instructions delivered in the same way to ensure standardisation
+Behavioural categories and recording:
+
+Categories: making eye contact with audience, looking away from audience, speech hesitations, arms folded, smiling, touching face/hair
+Recorded on a behaviour checklist drawn up beforehand by at least 2 observers
+Event sampling used — tallying non-verbal behaviours throughout each 5-minute presentation
+Reliability:
+
+Prior to research, two observers agree on specific behavioural categories and method of categorising so subjective interpretation is not possible
+Both observe each participant independently, then correlate their tallies
+A correlation of +0.8 or above indicates high inter-observer reliability
+Ethical issues:
+
+Informed consent obtained before the study via a consent form detailing the aim, procedure, participant's role, and duration
+Participants informed of their right to withdraw themselves and their data at any time
+Reassurance that details will be kept confidential
+(314 words — Level 4: 10–12 marks)
+
+Examiner Commentary:
+
+Top band. Clear, practical, well-justified design. Effective use of key terms (e.g., inter-rater reliability). Logical structure addressing all four elements.
+
+8. 16-Mark Essays (No Application)
+Mark Split: AO1 = 6, AO3 = 10
+
+Structure:
+
+Section	Paragraphs	Content	AO	Time
+Description	1–3	Describe theory/study in detail — procedure, findings, conclusions, key terms	AO1	3–4 min
+Evaluation	4–7	3–4 PEEL paragraphs — strengths, limitations, counterpoints, research evidence	AO3	12–14 min
+Timing: ~6 marks AO1 in ~half a page, ~10 marks AO3 in ~1–1.5 pages
+
+Model Answer:
+
+Outline and evaluate research into two factors affecting the accuracy of eyewitness testimony. [16 marks]
+
+Paragraph 1 (AO1): Leading questions' impact on EWT accuracy was examined by Loftus & Palmer (1974). After showing film clips of car accidents to American students, they questioned them about the incident. Participants were asked to describe how fast the cars were going when they "hit" each other. The verb "hit" implies speed, making this a leading question. Each of the five groups received a distinct verb: contacted, bumped, collided, or smashed.
+
+Paragraph 2 (AO1): For every group, the mean estimated speed was calculated. For "contacted," the mean was 31.8 mph; for "smashed," the mean was 40.5 mph. The findings demonstrate that leading questions have an impact on EWT accuracy.
+
+Paragraph 3 (AO1): Post-event discussion is another factor. Gabbert et al. (2003) found that 71% of participants misrecalled details they had heard during discussion but had not seen in the video. This shows how conversations among co-witnesses can taint EWTs.
+
+Paragraph 4 (AO3): A limitation of Loftus & Palmer is that participants watched film clips, not real accidents. Since clips lack the stress of actual events, this lacks ecological validity and may not reflect how leading questions influence EWT in real criminal cases. Given real-life consequences, EWT may be more reliable than studies indicate.
+
+Paragraph 5 (AO3): Individual differences are a further limitation. Anastasi & Rhodes (2006) found 18–25 and 35–45 age groups were more accurate than the 55–78 group. Because Loftus & Palmer used university students, their findings lack population validity and cannot easily be generalised to other age groups.
+
+Paragraph 6 (AO3): On the other hand, the study has significant real-world implications. Mistaken eyewitness identification is the biggest factor leading to conviction of innocent people (Wells & Olson, 2003). Loftus (1975) argues officers should be careful how they phrase questions. This demonstrates how the work can prevent miscarriages of justice.
+
+(486 words — Level 4: 13–16 marks)
+
+Examiner Commentary:
+
+Top band. Detailed AO1 with two factors and relevant studies. Selective and focused. Evaluation is effective — each point introduced, elaborated with contextualised criticism (not generic), and linked back to the question.
+
+Paragraph-by-Paragraph Breakdown:
+
+#	Content	AO
+1	Research study on Factor 1 (leading questions) — procedure, key terms	AO1
+2	Findings of Loftus & Palmer with link to question	AO1
+3	Research study on Factor 2 (post-event discussion) — Gabbert et al.	AO1
+4	Limitation — ecological validity, elaborated and linked	AO3
+5	Limitation — individual differences, research evidence, linked	AO3
+6	Counterargument/strength — real-world applications, linked	AO3
+9. 16-Mark Essays (With Application / Stem)
+Mark Split: AO1 = 6, AO2 = 4, AO3 = 6
+
+Structure:
+
+#	Content	AO
+1	Describe explanation/theory 1 in detail with key terms	AO1
+2	Apply explanation 1 to the stem — create explanatory links	AO2
+3	PEEL evaluation — strength with research evidence	AO3
+4	PEEL evaluation — limitation / counterargument	AO3
+5	Describe explanation/theory 2 with key terms. Apply to stem	AO1 + AO2
+6	PEEL evaluation of explanation 2	AO3
+7	(Optional) Describe explanation 3 briefly	AO1
+8	Apply explanation 3 to stem	AO2
+9	PEEL evaluation of explanation 3	AO3
+Model Answer:
+
+Jay has schizophrenia. His speech is rapid and confused, and he changes constantly from one idea to something completely different. Jay's father was treated for mental health problems when younger. Jay's mother worries excessively about Jay. She often criticises his behaviour and tells him what to do. Jay's doctor prescribes medication, which seems to reduce his symptoms.
+
+Discuss one or more explanations for schizophrenia. Refer to Jay in your answer. [16 marks]
+
+Paragraph 1 (AO1): One explanation for SZ is biological — it runs in families, suggesting a genetic link. The greater the genetic similarity, the greater the likelihood of developing SZ. Twin studies show higher concordance in MZs (100% shared genes) than DZs (50%). There is also a link between first-degree relatives and shared risk.
+
+Paragraph 2 (AO2): The genetic explanation could explain Jay's SZ, as his father also had mental health problems requiring treatment. This suggests Jay might have inherited his condition, particularly as they are first-degree relatives who share 50% of their genes.
+
+Paragraph 3 (AO3): A strength is supporting evidence. Gottesman & Shields (1966) found increased SZ incidence in adopted children with schizophrenic biological parents. They also found (1972) a concordance rate of 58% in MZ twins vs 12% for DZ twins. These findings show SZ is likely genetically inherited.
+
+Paragraph 4 (AO3): However, environment cannot be ruled out. If SZ were purely genetic, MZ concordance would be 100%. As this has never been found, other factors must play a role.
+
+Paragraph 5 (AO1 + AO2): Another explanation is the dopamine hypothesis — SZ results from excess dopamine in the subcortex (hyperdopaminergia) or low dopamine in the prefrontal cortex (hypodopaminergia). The fact that Jay's medication reduces his symptoms suggests neurotransmitter levels could also explain his condition.
+
+Paragraph 6 (AO3): However, the dopamine hypothesis cannot explain all cases, as not all patients respond to drugs. Ripke et al. (2014) identified other neurotransmitters, such as glutamate, which may play a role. Therefore, evidence for the dopamine hypothesis is mixed.
+
+Paragraph 7 (AO1): Family dysfunction can also explain SZ. The double-bind theory (DBT) describes situations where a child receives mixed messages about right and wrong. If they don't meet inconsistent standards, they are punished by withdrawal of love.
+
+Paragraph 8 (AO2): DBT may be a risk factor for Jay's SZ as his mother alternates between concern (worrying about him) and irritation (criticising his behaviour).
+
+Paragraph 9 (AO3): A weakness is that there is little evidence to support DBT, and such explanations have led to parent blaming. Parents have observed their child's declining mental health AND been blamed for it. Such explanations are no longer tolerated.
+
+(510 words — Level 4: 13–16 marks)
+
+Examiner Commentary:
+
+Top band. Detailed AO1 for multiple explanations. Application is effective — Jay's experiences are not simply repeated but linked to explanations. Coherent structure with good key terms. Evaluation is thorough and clearly linked.
+
+10. Statistical Tests Reference Table
+How to Choose the Right Test
+Step 1: Is it a test of DIFFERENCE or CORRELATION?
+  ├─ CORRELATION → Step 2a
+  └─ DIFFERENCE → Step 2b
+Step 2a (Correlation): What type of data?
+  ├─ Ordinal → Spearman's rho
+  └─ Interval → Pearson's r
+Step 2b (Difference): What experimental design?
+  ├─ Independent groups → Step 3a
+  └─ Repeated measures / Matched pairs → Step 3b
+Step 3a (Independent): What type of data?
+  ├─ Nominal → Chi-squared (χ²)
+  ├─ Ordinal → Mann-Whitney U
+  └─ Interval → Unrelated t-test
+Step 3b (Related): What type of data?
+  ├─ Nominal → Sign test
+  ├─ Ordinal → Wilcoxon T
+  └─ Interval → Related t-test
+Quick-Reference Table
+Nominal	Ordinal	Interval/Ratio
+Correlation	—	Spearman's rho	Pearson's r
+Difference — Independent	Chi-squared (χ²)	Mann-Whitney U	Unrelated t-test
+Difference — Related	Sign test	Wilcoxon T	Related t-test
+Significance Rules
+Test	Significant when calculated value is...
+Spearman's rho	≥ critical value
+Pearson's r	≥ critical value
+Chi-squared	≥ critical value
+Mann-Whitney U	≤ critical value
+Wilcoxon T	≤ critical value
+Sign test	≤ critical value
+Unrelated t-test	≥ critical value
+Related t-test	≥ critical value
+Data Type Identification Guide
+Data Type	Description	Examples
+Nominal	Categories / frequencies	Male/Female counts, Yes/No tallies, number of people choosing option A vs B
+Ordinal	Ranked/ordered, intervals not equal	Rating scales (1–10), Likert scales, questionnaire scores, ranked positions
+Interval/Ratio	Measurable with equal intervals, true units	Time (seconds), temperature (°C), height (cm), reaction time (ms), standardised test scores
+Common Traps
+Questionnaire/rating scale scores → Ordinal (NOT interval) because the difference between points is subjective
+Standardised psychological tests with established scales → Can be treated as interval
+Time, distance, weight → Interval/ratio
+Categories counted → Nominal
+11. Key Evaluation Acronyms & Frameworks
+PEEL Structure (Use for EVERY AO3 point)
+Letter	Action	Example
+P — Point	State a clear strength or limitation	"A strength is that there is supporting research evidence."
+E — Evidence	Cite supporting or contradicting research, or explain the logical basis	"Gottesman & Shields (1972) found a concordance rate of 58% in MZ twins compared to 12% in DZ twins."
+E — Explain	Explain WHY this evidence supports or challenges the theory	"This supports the genetic explanation because MZ twins share 100% of their genes, so the higher concordance rate suggests genetics play a significant role."
+L — Link	Link back to the question/theory	"Therefore, there is strong evidence to suggest that schizophrenia has a genetic basis."
+Common Evaluation Points
+Evaluation Type	How to Use
+Supporting research	"A strength is that [study] found [findings], which supports [theory] because..."
+Contradicting research	"A limitation is that [study] found [findings], which challenges [theory] because..."
+Ecological validity	"A limitation is that [study] was conducted in a lab/used artificial tasks, which lacks ecological validity because..."
+Population validity	"A limitation is that [study] only used [sample type], so the findings cannot be generalised to [wider population] because..."
+Practical applications	"A strength is that [theory] has led to [therapy/intervention], which demonstrates its real-world value because..."
+Determinism vs Free will	"A limitation is that [theory] is deterministic because it suggests behaviour is caused by [factor], ignoring the role of free will..."
+Reductionism	"A limitation is that [theory] is reductionist as it reduces [complex behaviour] to [single factor], ignoring other influences such as..."
+Nature vs Nurture	"The [approach] takes a [nature/nurture] position, arguing that behaviour is primarily influenced by [genes/environment]..."
+Ethical issues	"A limitation is that the research raises ethical concerns regarding [deception/informed consent/psychological harm] because..."
+Reliability	"A strength is that the research used [standardised procedures/inter-observer reliability], making the findings more reliable because..."
+12. General Exam Technique Rules
+Universal Rules
+Always use psychological terminology — e.g., "ecological validity" not "it's not realistic"
+Always name researchers and dates when citing studies — e.g., "Loftus & Palmer (1974)"
+Never write generic evaluation — always link evaluation points to the specific theory/study in the question
+Application (AO2) must create explanatory links — do NOT just repeat the stem; explain WHY it fits the theory
+Balance strengths and limitations in evaluation — don't only criticise or only praise
+Answer the exact question — if it says "discuss," you need AO1 AND AO3; if it says "outline," focus on AO1; if it says "evaluate," focus on AO3
+Levels of Response Mark Bands
+Level	8-mark	12-mark	16-mark	Description
+4 (Top)	7–8	10–12	13–16	Detailed, accurate AO1. Effective evaluation with elaboration. Coherent, focused answer
+3	5–6	7–9	9–12	Mostly detailed AO1. Some effective evaluation. Mostly coherent
+2	3–4	4–6	5–8	Limited AO1. Basic evaluation, lacks elaboration. May lack coherence
+1	1–2	1–3	1–4	Very limited AO1. Superficial evaluation. Poorly organised
+0	0	0	0	No relevant content
+What Separates Level 3 from Level 4
+Level 3	Level 4
+Evaluation is present but not fully elaborated	Evaluation is effective — elaborated with evidence AND linked back
+Application may quote the stem without explaining why	Application creates explanatory links between theory and scenario
+Key terms may be used but not consistently	Key terms used confidently throughout
+Structure may wander	Structure is coherent and focused — clear line of argument
+May describe evaluation rather than analyse	Evaluation points clearly explain why something is a strength/limitation
+Probability & Significance — Key Phrases
+p ≤ 0.05 = "There is a 5% or less probability that the results are due to chance"
+Significant result = "The null hypothesis can be rejected and the alternative hypothesis accepted"
+Not significant = "The null hypothesis is retained; the results could be due to chance"
+Type I error = Rejecting the null hypothesis when it is true (false positive) — more likely with lenient significance levels (e.g., p ≤ 0.10)
+Type II error = Retaining the null hypothesis when it is false (false negative) — more likely with stringent significance levels (e.g., p ≤ 0.01)
+Quick-Use Instructions for AI Models
+When answering an AQA A-Level Psychology question:
+
+Identify the question type from the marks and command words
+Check the mark split (AO1/AO2/AO3) from the table above
+Follow the exact structure for that question type
+Match the word count target — don't overwrite or underwrite
+Use PEEL for every AO3 point — no exceptions
+If there's a stem/scenario, create explanatory links (AO2) — don't just quote it
+Use specific researchers, dates, and findings — never be vague
+Use psychological key terms throughout — this is what separates Level 3 from Level 4
+For statistical test questions, follow the decision flowchart in Section 10
+For significance questions, check one-tailed vs two-tailed, N/df, and p-value before reading the table
