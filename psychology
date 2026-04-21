@@ -1,28 +1,13 @@
-AQA A-Level Psychology — Complete Question-Type Cheat Sheet & AI System Prompt
-Purpose: Give this entire document to any AI model as context. It contains every AQA A-Level Psychology question type, the exact mark allocation, recommended structures, model answers, and examiner commentary so the AI can produce exam-grade responses for any question.
-
-Table of Contents
-Overview of Assessment Objectives
-Question Types at a Glance
-Statistical Test Questions (4 & 7 marks)
-Critical Value / Significance Tables (4 marks)
-8-Mark Essays (No Application)
-8-Mark Essays (With Application / Stem)
-12-Mark Research Design Questions
-16-Mark Essays (No Application)
-16-Mark Essays (With Application / Stem)
-Statistical Tests Reference Table
-Key Evaluation Acronyms & Frameworks
-General Exam Technique Rules
-1. Overview of Assessment Objectives
+ Overview of Assessment Objectives
 AO	What It Tests	What to Do
 AO1	Knowledge & Understanding	Describe, outline, identify, state theories/studies/concepts with key terminology
 AO2	Application	Apply psychological knowledge to a novel scenario/stem — do NOT just quote the stem; explain WHY the behaviour fits the theory
 AO3	Analysis & Evaluation	Evaluate using PEEL (Point, Evidence, Explain, Link) — strengths, limitations, methodological issues, supporting/contradicting research, real-world applications, ethical issues
 2. Question Types at a Glance
 Marks	Type	AO Split	Time (approx.)	Word Count Target
-4	Statistical test (no context)	AO2	3–4 min	~80 words
+4	Short answer / Statistical test (no context)	AO1/AO2	3–5 min	~80 words
 4	Critical value / significance	AO2	3–4 min	~60 words
+6	Short essay / Application	AO1=3, AO3=3 or AO1=3, AO2=3	6–7 min	~150 words
 7	Statistical test (with context)	AO2	6–7 min	~120 words
 8	Essay (no application)	AO1=3, AO3=5	10 min	~250 words
 8	Essay (with application)	AO1=3, AO2=2, AO3=3	10 min	~225 words
@@ -30,8 +15,35 @@ Marks	Type	AO Split	Time (approx.)	Word Count Target
 12	Essay (no application)	AO1=6, AO3=6	15 min	~350 words
 16	Essay (no application)	AO1=6, AO3=10	20 min	~500 words
 16	Essay (with application)	AO1=6, AO2=4, AO3=6	20 min	~510 words
-3. Statistical Test Questions
-3A. 4-Mark Version (No Context Required)
+3. 4-Mark Questions
+Structure
+4-marker questions generally require 4 points using a PEE structure (Point, Evidence, Explanation), or two detailed, well-explained points (2 marks each). Focus on conciseness, using specific terminology and linking directly to the question (AO1/AO2).
+
+Key Strategies
+PEE Structure: Each paragraph should make a clear point, provide evidence (studies or terms), and explain the link to the question
+Time Management: Spend roughly 4–5 minutes on a 4-mark question
+Direct Application: If the question includes a stem (scenario), you must use specific context to gain marks
+Focus on AO1/AO2: Usually, 4-markers focus on describing (AO1) or applying/explaining (AO2) rather than evaluating (AO3)
+Common 4-Marker Requirements
+Requirement	Structure
+Outline 2 differences/similarities	2 paragraphs. Point + Detail for each (e.g., "Difference 1: [Point] because [Detail]. Difference 2: [Point] because [Detail]")
+"Explain why..."	Use the "Chain of Reasoning" approach to show cause and effect
+Application questions	"The theory suggests X... and in the scenario, Y happened... therefore, Z."
+4. 6-Mark Questions
+Mark Split
+AO1 = 3, AO3 = 3 or AO1 = 3, AO2 = 3
+
+Recommended Structure
+Paragraph	Content
+1 (AO1 + AO2/3)	Outline a key concept/finding and apply it to the scenario or briefly evaluate it
+2 (AO1 + AO2/3)	Outline a second key concept/finding and apply it to the scenario or evaluate it further
+Key Tips
+Time Management: Spend approximately 6–7 minutes on these questions
+Application Questions: Often require you to apply your knowledge to a scenario (e.g., explaining a behaviour described in the prompt)
+Definition Questions: Focus on precise, detailed knowledge rather than extensive evaluation
+Ensure precise, accurate terminology (AO1) and direct application (AO2) or critical evaluation (AO3)
+5. Statistical Test Questions (4 & 7 marks)
+5A. 4-Mark Version (No Context Required)
 Structure:
 
 Identification (1 mark): State the name of the test
@@ -51,7 +63,7 @@ This is because:
 The teacher is looking for a difference (between the two groups' happiness scores)
 It is an independent groups design (different participants in each group)
 She collected ordinal data (happiness questionnaire produces ranked/ordered data)
-3B. 7-Mark Version (With Context Required)
+5B. 7-Mark Version (With Context Required)
 Structure:
 
 Identification (1 mark): Name the statistical test
@@ -73,24 +85,19 @@ This is because:
 The teacher is looking for a difference — specifically, between no recreational screen time and unlimited recreational screen time on exam performance
 It is an independent groups design — as the pupils either had no recreational screen time OR unlimited recreational screen time (they were in one group only)
 She collected ordinal data — as the difference between each test score is not fixed (test scores from a class test are ranked/ordered data)
-Examiner Commentary:
+Examiner Commentary: This receives full marks (7/7) as the statistical test is correctly identified for 1 mark along with three correct justifications for 3 marks. Each justification is explicitly linked to the study and therefore receives a further 3 marks.
 
-This receives full marks (7/7) as the statistical test is correctly identified for 1 mark along with three correct justifications for 3 marks. Each justification is explicitly linked to the study and therefore receives a further 3 marks.
-
-4. Critical Value / Significance Table Questions
-Structure (4 marks):
-
+6. Critical Value / Significance Table Questions
+Structure (4 marks)
 Identify the critical value (1 mark): State the exact number from the table
 Justify — One-tailed or two-tailed (1 mark): Is the hypothesis directional (one-tailed) or non-directional (two-tailed)?
 Justify — N or df value (1 mark): State the number of participants / degrees of freedom
 Justify — Significance level (1 mark): State the p-value (e.g., 0.05)
-Key Rules for Reading Tables:
-
+Key Rules for Reading Tables
 Check whether calculated value must be ≥ critical value (Spearman's, Pearson's, Chi-squared) or ≤ critical value (Mann-Whitney, Wilcoxon, Sign test) to be significant
 One-tailed = directional hypothesis (predicts a specific direction)
 Two-tailed = non-directional hypothesis (predicts a difference/correlation but not direction)
-Model Answer:
-
+Model Answer
 A researcher hypothesised a positive correlation between hours slept and feeling rested. N = 18, one-tailed, p ≤ 0.05. Calculated rho = 0.395. The critical value for rho must be ≥ calculated value.
 
 Answer:
@@ -104,49 +111,206 @@ There are 18 participants, so N = 18
 The level of significance is 0.05 (5%)
 Since the calculated value (0.395) is less than the critical value (0.401), the result is not significant and we must retain the null hypothesis.
 
-5. 8-Mark Essays (No Application)
-Mark Split: AO1 = 3, AO3 = 5
+7. Probability & Significance Questions
+Using Statistical Tables to Determine Significance
+After determining the correct statistical test, the psychologist will calculate the data they have collected, which will produce an observed or calculated value (represented as a test statistic, e.g., U = 40, T = 20).
 
-Structure:
+You will always be given the calculated/observed value in the exam paper for all the statistical tests except the sign test, as you may have to calculate it yourself.
 
+Steps for Selecting the Correct Critical Value
+Is the hypothesis directional (one-tailed) or non-directional (two-tailed)?
+How many participants (N) were in the study? (For some tests, this is degrees of freedom (df) instead)
+What is the level of significance? (The standard is p ≤ 0.05)
+Find the critical value by looking across the correct row and down the correct column
+Compare the calculated value with the critical value
+How to Write a Statement of Significance
+A statement of significance should include:
+
+The calculated value and whether it is equal to, more than, or less than the critical value
+Whether the result is significant or not at the stated significance level
+Whether the study has a one-tailed or two-tailed hypothesis
+The number of participants (N) or degrees of freedom (df)
+What happens to the null hypothesis:
+Significant → null hypothesis is rejected and the alternative hypothesis is accepted
+Not significant → null hypothesis is accepted and the alternative hypothesis is rejected
+Example statement:
+
+"As the calculated value of U (10.5) is less than the critical value (17), the result is significant at a 0.05 significance level for a two-tailed test, where N1 = 10 and N2 = 8. This means that we can reject the null hypothesis and accept the alternative hypothesis."
+
+Worked Example: Identifying the Critical Value (4 marks)
+A researcher hypothesised a positive correlation between hours slept and feeling rested. 18 participants. 5% significance. Calculated Spearman's rho = 0.395.
+
+Q1. Identify the appropriate critical value from the table above. Explain your choice. [4 marks]
+
+Answer:
+
+The critical value is 0.401 [1 mark]
+
+The hypothesis is directional/it is a one-tailed test
+There are 18 participants so N = 18
+The level of significance is 0.05 [3 marks]
+Worked Example: Statement of Significance (3 marks)
+Q2. Explain whether the results are significant. Refer to the critical value identified in Q1 in your answer. [3 marks]
+
+Model answer:
+
+As the calculated value of rho (0.395) is less than the critical value (0.401), the result is not significant at a 0.05 significance level for a one-tailed test, where N = 18. This means that we can accept the null hypothesis and reject the alternative hypothesis. [3 marks]
+
+Key Phrases for Probability & Significance
+Phrase	Meaning
+p ≤ 0.05	"There is a 5% or less probability that the results are due to chance"
+Significant result	"The null hypothesis can be rejected and the alternative hypothesis accepted"
+Not significant	"The null hypothesis is retained; the results could be due to chance"
+Type I error	Rejecting the null hypothesis when it is true (false positive) — more likely with lenient significance levels (e.g., p ≤ 0.10)
+Type II error	Retaining the null hypothesis when it is false (false negative) — more likely with stringent significance levels (e.g., p ≤ 0.01)
+Examiner Tips for Significance Questions
+Read the stem carefully and focus on the specific wording used
+Read the stem more than once — there is usually a lot of information provided
+Highlight, underline, and annotate parts of the stem before answering
+Highlight, circle, or underline the chosen critical value in the table (you can still earn a mark if you forget to include the value in your answer)
+If not given a significance value, remember the usual level in psychology is 0.05
+Remember that the only test you need to calculate is the sign test
+8. 8-Mark Essays (No Application)
+Overview
+8-mark questions appear as extended writing questions in Papers 1, 2 and 3, and they assess your ability to:
+
+Demonstrate knowledge and understanding of scientific ideas, processes, techniques and procedures (AO1)
+Critically analyse and evaluate in a well-constructed argument (AO3)
+Make judgements and draw conclusions (AO3)
+Mark Split
+AO1 = 3, AO3 = 5
+
+The 'outline' part of the question assesses AO1 = 3 marks
+The 'evaluate' part of the question assesses AO3 = 5 marks
+Types of 8-Mark Essay Questions
+'Outline and evaluate' = present key points about the topic and their strengths and weaknesses
+'Compare' = consider both similarities and differences
+'Discuss' = invites a broader commentary than a straightforward assessment of strengths and weaknesses
+8-mark essay questions tend to be more focused and specific than 16-mark essay questions. You could be asked to discuss a particular key study, an element of an explanation, or a specific concept.
+
+Any of these types of questions could also be presented with a scenario or stem (see Section 9).
+
+Examples of Typical 8-Mark Essay Questions
+Outline and evaluate research into duration in memory [8 marks]
+
+Describe theories or research studies into duration in memory (AO1 = 3 marks)
+Evaluate theories or research studies into duration in memory (AO3 = 5 marks)
+Outline Rusbult's model of romantic relationships. Explain one or more strength(s) of Rusbult's model [8 marks]
+
+Describe Rusbult's model (AO1 = 3 marks)
+Evaluate Rusbult's model — strengths only (AO3 = 5 marks)
+Compare the humanistic approach with the psychodynamic approach [8 marks]
+
+Your knowledge of each approach will be demonstrated in your comparison (AO1 = 3 marks)
+Compare the similarities and differences (AO3 = 5 marks)
+Discuss Duck's phase model of relationship breakdown [8 marks]
+
+Describe Duck's phase model (AO1 = 3 marks)
+Evaluate Duck's phase model (AO3 = 5 marks)
+How Much Should I Write?
+You will have around 10 minutes to write an 8-mark essay question, which includes planning time
+Aim to write around 200–250 words
+Remember that there are only 3 marks available for AO1
+Don't try to describe too many studies or explanations; instead, spend more time on well-explained evaluation (AO3)
+It is better to cover fewer studies, theories, or explanations but in greater detail — this demonstrates understanding
+Think quality over quantity!
+A question may ask you to explain one or more studies, explanations, strengths or limitations — it is fine to describe just one (in detail)
+There are 5 marks available for AO3 if no stem is presented — spend more time on evaluation than AO1
+Structure
 Paragraph	Content	AO
 1	Define/describe the theory or concept with key terminology	AO1
 2	Further explanation with a specific example from psychology	AO1
 3	PEEL: Strength (e.g., supporting research, real-world application)	AO3
 4	PEEL: Limitation (e.g., methodological issues, ethical problems, counterpoint)	AO3
-Model Answer:
+Worked Example
+Q. Discuss token economies as a method used in the management of schizophrenia. [8 marks]
 
-Outline and evaluate reductionist explanations in psychology. [8 marks]
+Model answer:
 
-Reductionism involves explaining a complex behaviour or phenomenon (e.g., depression) in terms of constituent parts.
+A type of behavioural therapy founded on operant conditioning is token economy. It employs a system of rewards to modify the behaviour of individuals with schizophrenia (SZ), particularly those who have become institutionalised and have formed maladaptive behavioural patterns.
 
-There are different types of reductionism. Biological reductionism is based on the idea that all behaviour is at some level biological and so can be explained through neurochemical and genetic influences. For example, the biological explanation of depression is reductionist, as it explains the disorder as being the result of an imbalance of serotonin linked to genetics. By isolating one component of depression (the 5HT1-D receptor), a researcher can design a study to test the isolated variable (hypothesis-testing).
+The idea is that patients receive tokens for engaging in a desired behaviour that has been the focus of reinforcement, such as getting dressed in the morning. Later on, the tokens themselves can be traded for more substantial benefits like sweets or a walk outside the hospital.
 
-A strength of reductionist explanations is that they often form the basis of scientific research. In order to create operationalised variables, it is necessary to break target behaviours (e.g., depression or phobias) down into constituent parts. This makes it possible to conduct experiments in a way that is meaningful and reliable. This is a strength because it gives psychology greater credibility, placing it on equal terms with the natural sciences.
+One strength of token economies is that the treatment improves the quality of life for patients. They help by making the individuals' behaviour more socially acceptable so that they can better reintegrate into society, showing that token economies can be effective. This is a strength because it has positive implications for the economy if patients can manage their lives outside of psychiatric institutions.
 
-However, reductionist approaches have been accused of oversimplifying complex phenomena as they do not include an analysis of the social context within which behaviour occurs. For example, the physiological act of pointing one's finger will be the same regardless of the context. However, we don't know why the finger is pointed (it could be an act of aggression or to draw attention to something). This means that reductionist explanations can only ever form part of an explanation, leading to a loss of validity.
+A limitation of psychological treatments for SZ, such as token economy, is that they can raise ethical issues. This is because patients with milder symptoms of SZ are more likely to be granted privileges and treats, whereas those with more severe symptoms that hinder them from engaging in desired behaviours are less likely to be granted these benefits. This is problematic because, in addition to their other symptoms, the most seriously ill patients experience discrimination, which has resulted in their decreased use within the psychiatric system.
 
-(248 words — Level 4: 7–8 marks)
+Word count: 235 — Level 4 response: 7–8 marks
 
-Examiner Commentary:
+Examiner Commentary: This response is in the top band (Level 4) because it shows detailed knowledge and understanding of token economies used to manage schizophrenia. The essay follows a coherent structure, is focused on the question, and makes good use of key terms. The evaluation is effective as each strength and limitation is introduced, elaborated thoroughly and linked back to the question.
 
-Top band because it shows thorough understanding of reductionist explanations. Coherent structure, focused on the question, good use of key terms, includes a psychology example. Evaluation is effective — each point is introduced, elaborated, and linked back.
+Step by step structure:
 
-6. 8-Mark Essays (With Application / Stem)
-Mark Split: AO1 = 3, AO2 = 2, AO3 = 3
+Paragraph 1: Token economy in the context of schizophrenia is explained in detail and includes key terms (AO1)
+Paragraph 2: The process of using token economy to manage schizophrenia is explained further and includes examples (AO1)
+Paragraph 3: An evaluation point is introduced, explained in detail and is linked back to the question on managing schizophrenia (AO3)
+Paragraph 4: A counter point is introduced, explained in detail and again linked back to the question (AO3)
+How to Improve 8-Mark Performance
+One way to boost your marks is to perfect your evaluation (AO3). Think quality over quantity; it is better to cover just one or two evaluation points in greater detail so that your points are effective. You can do this by:
 
-Structure:
+Introducing the evaluation point
+Elaborating in the following ways: give an example, cite research evidence, draw a comparison, or discuss implications/applications to real-life
+Linking the point back to the question (what are the implications for the question?)
+Examiners say that students usually forget to include this important part when evaluating.
 
+Useful lead-in phrases:
+
+A strength/limitation is...
+On the other hand...
+Furthermore...
+However...
+In contrast...
+This shows that...
+This suggests that...
+This implies that...
+Worked Example of an Effective Evaluation Point:
+
+Introduce the evaluation point: An advantage of Harlow's research is that it has practical relevance
+
+Elaborate: His discoveries, such as the long-term social effects of maternal deprivation, have been applied to real-world situations and have assisted social workers in identifying risk factors in child neglect and abuse so they can intervene to prevent it
+
+Link back to the question: This is a strength as it shows how animal studies are useful in understanding human attachment behaviour
+
+Commentary: This is an effective evaluation point as the strength is introduced, explained well (real-life applications discussed), and the final sentence links back to the question.
+
+9. 8-Mark Essays (With Application / Stem)
+Overview
+8-mark application essay questions can appear in Papers 1, 2 and 3, and they assess:
+
+AO1 — knowledge and understanding of scientific ideas, processes, techniques and procedures
+AO2 — application of knowledge and understanding
+AO3 — critical analysis and evaluation; making judgements and drawing conclusions
+Mark Split
+AO1 = 3, AO2 = 2, AO3 = 3
+
+When a question is presented with a scenario or stem, you must make links between the theory in the question and the stem. A stem can be a paragraph, a conversation, or simply a sentence.
+
+If you do not make reference to the stem, you will not have fully answered the question and will not receive maximum marks.
+
+How Much Should I Write?
+Around 10 minutes, which includes planning time
+Aim for 200–250 words
+Only 3 marks for AO1 — don't describe too many studies
+2 marks for AO2 — you must spend less time on AO3 so that you can effectively engage with the stem
+It is better to cover fewer studies/theories but in greater detail
+Think quality over quantity!
+Structure
 Paragraph	Content	AO
 1	Briefly outline the theory/model (first element)	AO1
 2	Continue outlining the theory with examples and key terms	AO1
 3	Apply the theory to the stem — explain WHY the behaviour in the scenario fits the theory (do NOT just quote the stem)	AO2
 4	PEEL: Evaluation point with research evidence, linked back to the question	AO3
-Model Answer:
+Critical Rule for AO2 Application
+Do NOT just repeat the stem. You must create an explanatory link — explain WHY the behaviour/situation in the stem fits the theory. E.g., "The activating event was dropping change at the till, which triggered the irrational belief that 'everybody knew I was useless,' demonstrating Ellis's concept of musturbation."
+
+Worked Example
+Q. Patients with depression were asked to keep a daily diary of their experiences as part of their therapy. Two researchers analysed the same extracts from the diaries using content analysis.
+
+One of the diaries included the following extract: "Managed to drag myself out of the house yesterday but wished I hadn't. Went to the shop but dropped my change at the till. Everybody knew I was useless. Why can I not do anything right? No one else I know does such stupid things."
 
 Ellis proposed an ABC model of depression. Outline and evaluate the ABC model of depression. Refer to this diary extract in your answer. [8 marks]
 
-Diary: "Managed to drag myself out of the house yesterday but wished I hadn't. Went to the shop but dropped my change at the till. Everybody knew I was useless. Why can I not do anything right? No one else I know does such stupid things."
+Model answer:
 
 The ABC model explains how irrational thoughts affect our behaviour and emotions. Ellis (1962) argued that depression is caused by irrational thoughts, which are triggered by negative external events. This is known as the activating event (A).
 
@@ -156,23 +320,28 @@ In the diary entry above, the activating event was the individual dropping chang
 
 A strength of Ellis' ABC model of depression is that it has practical applications as it has led to successful therapy, i.e., REBT. The idea that, by identifying and disputing irrational beliefs, a person can reduce their depression is supported by research evidence, such as Lipskey et al. (1980), who found a correlation between changes in beliefs and changes in emotional distress. This in turn supports the basic theory because it suggests that the irrational beliefs played a role in the development of depression.
 
-(225 words — Level 4: 7–8 marks)
+Word count: 225 — Level 4 response: 7–8 marks
 
-Examiner Commentary:
+Examiner Commentary: Top band. Detailed AO1 with key terms. Application is effective — diary content is linked to theory (not just quoted). Evaluation elaborated with research findings and linked back.
 
-Top band. Detailed AO1 with key terms. Application is effective — diary content is linked to theory (not just quoted). Evaluation elaborated with research findings and linked back.
+Step by step structure:
 
-Critical Rule for AO2 Application:
+Paragraph 1: The 'A' element of the ABC model is briefly explained (AO1)
+Paragraph 2: The 'B' and 'C' elements are explained with examples and key terms (AO1)
+Paragraph 3: Explanatory links made between each part of the ABC model and the content of the stem (AO2)
+Paragraph 4: An evaluation point is introduced, explained in detail using research findings and linked back to the question (AO3)
+10. 12-Mark Research Design Questions
+Overview
+Design a study questions typically appear in the research methods section of Paper 2, and they assess your ability to:
 
-Do NOT just repeat the stem. You must create an explanatory link — explain WHY the behaviour/situation in the stem fits the theory. E.g., "The activating event was dropping change at the till, which triggered the irrational belief that 'everybody knew I was useless,' demonstrating Ellis's concept of musturbation."
+Apply knowledge and understanding of scientific ideas, processes, techniques and procedures in a practical context (AO2)
+Analyse, interpret and evaluate scientific information, ideas and evidence, including in relation to issues, to develop and refine practical design and procedures (AO3)
+These questions test your overall knowledge and understanding of research methods, as they require you to design a practical study and justify your choices.
 
-7. 12-Mark Research Design Questions
-Mark Split: Varies — typically all three AOs tested
+Mark Split
+Varies — typically all three AOs tested (AO1/AO2/AO3 mixed)
 
-Structure: Answer EVERY bullet point in the question. Use subheadings matching the question prompts.
-
-Common Prompts & What to Include:
-
+Common Prompts & What to Include
 Prompt	What to Write
 Task for participants	Describe the specific task, duration, instructions given, how standardisation is ensured
 Behavioural categories & recording	List specific observable behaviours, describe the recording method (tally chart, behaviour checklist), state sampling method (event/time sampling)
@@ -181,83 +350,180 @@ Ethical issues	Informed consent (consent form with details), right to withdraw (
 Sampling method	Describe how and why (e.g., opportunity, random, volunteer)
 Variables	Identify IV, DV, and how they are operationalised
 Controls	Describe standardised procedures, extraneous variables, demand characteristics
-Model Answer:
+Worked Example
+Q. The psychologist focused on fluency in spoken communication in her study. Other research has investigated sex differences in non-verbal behaviours such as body language and gestures.
 
-Design an observation study to investigate sex differences in non-verbal behaviour when giving a presentation. [12 marks]
+Design an observation study to investigate sex differences in non-verbal behaviour of males and females when they are giving a presentation to an audience. [12 marks]
+
+In your answer, you should provide details of: the task for the participants; the behavioural categories to be used and how the data will be recorded; how reliability of the data collection might be established; ethical issues to be considered.
+
+Model answer:
 
 Task for participants:
 
-Ask participants to give a presentation to 10 audience members on a hobby they participate in
-They will plan and deliver a 5-minute presentation called "My Hobby"
-They can only use hand-held prompt cards
-All given the same instructions delivered in the same way to ensure standardisation
-Behavioural categories and recording:
+Ask participants to give a presentation to 10 members of an audience on a hobby they participate in
+They will be asked to plan and deliver a presentation called "My Hobby" lasting 5 minutes
+They can only use hand-held presentation cards as prompts
+They would all be given the same instructions, delivered in the same way to ensure standardisation
+Behavioural categories and recording of data:
 
-Categories: making eye contact with audience, looking away from audience, speech hesitations, arms folded, smiling, touching face/hair
-Recorded on a behaviour checklist drawn up beforehand by at least 2 observers
-Event sampling used — tallying non-verbal behaviours throughout each 5-minute presentation
-Reliability:
+Behavioural categories would cover non-verbal behaviours such as making eye contact with the audience, looking away from the audience, speech hesitations, arms folded, smiling, and touching their face and hair
+These observed categories would be recorded on a behaviour checklist drawn up beforehand by at least 2 observers
+Event sampling would be used by tallying the non-verbal behaviours that occur throughout each 5-minute presentation
+Reliability of data collection:
 
-Prior to research, two observers agree on specific behavioural categories and method of categorising so subjective interpretation is not possible
-Both observe each participant independently, then correlate their tallies
-A correlation of +0.8 or above indicates high inter-observer reliability
-Ethical issues:
+Prior to the research, I would, with another observer, decide which specific behavioural categories to include and the method of categorising non-verbal communication behaviours so that subjective interpretation of behaviour was not possible
+We would observe the presentation of each participant and then compare our tallies, which would then be correlated to determine whether we had found a positive correlation
+A correlation of +0.8 or above would indicate high inter-observer reliability
+Ethical issues to be considered:
 
-Informed consent obtained before the study via a consent form detailing the aim, procedure, participant's role, and duration
-Participants informed of their right to withdraw themselves and their data at any time
-Reassurance that details will be kept confidential
-(314 words — Level 4: 10–12 marks)
+One ethical issue I would deal with would be informed consent, which would have to be obtained from the participants prior to the study
+I would send a consent form detailing the aim and procedure of the study and the participant's role in it, including how long they would be taking part for
+The consent form would inform the participants of their right to withdraw themselves and their data from the study at any time with the reassurance that their details would be kept confidential
+Word count: 314 — Level 4: 10–12 marks
 
-Examiner Commentary:
+Examiner Commentary: This response is in the top band (Level 4) because it provides a clear, practical, well-justified design for an observation into non-verbal communication. Effective use of key terms is evident (e.g., the link to inter-rater reliability), which shows a confident grasp of topics across the psychology specification. The essay follows a logical structure; it answers the question requirements as all four elements of the question are addressed.
 
-Top band. Clear, practical, well-justified design. Effective use of key terms (e.g., inter-rater reliability). Logical structure addressing all four elements.
+How to Improve on Design Questions
+Carry out practical research (mini studies or classroom experiments) to gain a concrete grasp of how to conduct research
+Practice design questions — think, "If I had to measure aggression in a playground, how specifically would I do it?"
+Use key terms appropriately — when using a research method term, justify how and why it applies (e.g., don't just write "I would use stratified sampling" but add "...to ensure the sample reflects the class's proportions of male/female students")
+Give practical details, not just generic justifications — e.g., if you say "time sampling," add the precise interval (e.g., "I will record each social interaction every 30 seconds for 10 minutes")
+Develop a structured approach — use subheadings or bullet points matching the question prompts
+Data Handling Knowledge
+You could be asked to provide details of data handling and analysis. Know these terms:
 
-8. 16-Mark Essays (No Application)
-Mark Split: AO1 = 6, AO3 = 10
+Descriptive statistics: measures of central tendency and measures of dispersion
+Measures of central tendency: mean, median, mode
+Measures of dispersion: range, standard deviation
+Data presentation: bar chart, scattergram, histogram
+Inferential statistics: the different statistical tests
+11. 16-Mark Essays (No Application)
+Overview
+16-mark questions appear as extended writing questions in Papers 1, 2 and 3, and they assess your ability to:
 
-Structure:
+Demonstrate knowledge and understanding of scientific ideas, processes, techniques and procedures (AO1)
+Critically analyse and evaluate in a well-constructed argument (AO3)
+Make judgements and draw conclusions (AO3)
+Mark Split
+AO1 = 6, AO3 = 10
 
+The 'outline' part of the question assesses AO1 = 6 marks
+The 'evaluate' part of the question assesses AO3 = 10 marks
+Types of Essay Questions
+Command Word	What It Means
+'Outline/describe and evaluate'	Present key points about the topic and their strengths and weaknesses
+'Compare'	Consider both similarities and differences
+'Discuss'	Assessed the same way as 'outline and evaluate' but invites broader commentary (AO3)
+For a 'discuss' question, commentary would consider:
+
+The merits of both sides of a debate
+The overall contributions to psychology made by each side
+Comparisons with other debates, approaches, or explanations
+Examples of Typical 16-Mark Essay Questions
+Describe and evaluate research related to minority influence [16 marks]
+
+Describe theories or research studies on minority influence (AO1 = 6 marks)
+Evaluate the theories or research studies (AO3 = 10 marks)
+Outline and evaluate two animal studies of attachment [16 marks]
+
+Describe two animal studies of attachment (AO1 = 6 marks)
+Evaluate animal studies of attachment (AO3 = 10 marks)
+Outline the behaviourist approach. Compare the behaviourist approach with the biological approach [16 marks]
+
+Describe the behavioural approach (AO1 = 6 marks)
+Compare similarities and differences (AO3 = 10 marks)
+Discuss one or more definitions of abnormality [16 marks]
+
+Describe one or more definitions (AO1 = 6 marks)
+Evaluate one or more definitions (AO3 = 10 marks)
+How Much Should I Write?
+You will have around 20 minutes to write, which includes planning time
+Aim to write around 450–500 words
+Practice writing in timed conditions before exams
+Only 6 marks for AO1 — don't try to describe too many studies or explanations
+Spend more time on well-explained evaluation (AO3)
+It is better to cover fewer studies/theories but in greater detail — this demonstrates depth of understanding
+Think quality over quantity!
+A question may ask you to describe two studies/explanations — it is fine to describe one in more detail than the other
+There are 10 marks for AO3 if no stem — spend more time on evaluation than on AO1
+Structure
 Section	Paragraphs	Content	AO	Time
 Description	1–3	Describe theory/study in detail — procedure, findings, conclusions, key terms	AO1	3–4 min
 Evaluation	4–7	3–4 PEEL paragraphs — strengths, limitations, counterpoints, research evidence	AO3	12–14 min
 Timing: ~6 marks AO1 in ~half a page, ~10 marks AO3 in ~1–1.5 pages
 
-Model Answer:
+Worked Example
+Q. Outline and evaluate research (theories and/or studies) into the effects of misleading information on eyewitness testimony. [16 marks]
 
-Outline and evaluate research into two factors affecting the accuracy of eyewitness testimony. [16 marks]
+Model answer:
 
-Paragraph 1 (AO1): Leading questions' impact on EWT accuracy was examined by Loftus & Palmer (1974). After showing film clips of car accidents to American students, they questioned them about the incident. Participants were asked to describe how fast the cars were going when they "hit" each other. The verb "hit" implies speed, making this a leading question. Each of the five groups received a distinct verb: contacted, bumped, collided, or smashed.
+Leading questions' impact on eyewitness testimony's (EWT) accuracy was examined by Loftus & Palmer (1974). After showing film clips of car accidents to American students, they questioned them about the incident. Participants were asked to describe how fast the cars were going when they hit each other. The verb "hit" implies the speed at which the car was travelling, so this was a leading question. Each of the five participant groups received a distinct verb in the crucial question, such as contacted, bumped, collided, or smashed.
 
-Paragraph 2 (AO1): For every group, the mean estimated speed was calculated. For "contacted," the mean was 31.8 mph; for "smashed," the mean was 40.5 mph. The findings demonstrate that leading questions have an impact on EWT accuracy.
+For every participant group, the mean estimated speed was calculated. For the verb "contacted," the mean estimated speed was 31.8 mph, and for the verb "smashed," the mean was 40.5 mph. The findings demonstrate that leading questions have an impact on EWT accuracy.
 
-Paragraph 3 (AO1): Post-event discussion is another factor. Gabbert et al. (2003) found that 71% of participants misrecalled details they had heard during discussion but had not seen in the video. This shows how conversations among co-witnesses can taint EWTs.
+Post-event discussion is another way that false information can impact EWT. In one study (Gabbert et al., 2003), participants watched a video of the same crime, had a discussion about what they saw, and then took a recall test individually. 71% of participants misrecalled details of the incident that they had heard about during the discussion but had not seen in the video. This shows how conversations among co-witnesses about a crime can taint their EWTs, as they may incorporate (mis)information from other witnesses into their own recollections.
 
-Paragraph 4 (AO3): A limitation of Loftus & Palmer is that participants watched film clips, not real accidents. Since clips lack the stress of actual events, this lacks ecological validity and may not reflect how leading questions influence EWT in real criminal cases. Given real-life consequences, EWT may be more reliable than studies indicate.
+A limitation of Loftus & Palmer's study is that they watched film clips of car accidents. Since the clips do not have the same level of stress as an actual accident, this is very different from actually witnessing an accident. This is a limitation because research using these artificial tasks lacks ecological validity because they may not provide much information about how leading questions influence EWT in actual criminal cases. Given that the consequences of what is remembered in real life can be very significant, EWT may be more reliable than many studies indicate.
 
-Paragraph 5 (AO3): Individual differences are a further limitation. Anastasi & Rhodes (2006) found 18–25 and 35–45 age groups were more accurate than the 55–78 group. Because Loftus & Palmer used university students, their findings lack population validity and cannot easily be generalised to other age groups.
+Individual differences are a further limitation of research on false information on EWT. Research indicates that younger people provide more accurate eyewitness reports than older people do. Individuals in the 18–25 and 35–45 age groups were found to be more accurate than those in the 55–78 age group, according to one study (Anastasi & Rhodes, 2006). Because Loftus and Palmer used university students, when age may have an impact on EWT, their results cannot easily be generalised to other age groups; therefore, their findings lack population validity.
 
-Paragraph 6 (AO3): On the other hand, the study has significant real-world implications. Mistaken eyewitness identification is the biggest factor leading to conviction of innocent people (Wells & Olson, 2003). Loftus (1975) argues officers should be careful how they phrase questions. This demonstrates how the work can prevent miscarriages of justice.
+On the other hand, one of the study's strengths is that it has significant real-world implications, as inaccurate EWT can have grave consequences. As mistaken eyewitness identification is the biggest single factor leading to the conviction of innocent people, Loftus (1975) believes that leading questions can have such a distorting effect on memory that police officers should be careful about how they phrase their questions when interviewing eyewitnesses (Wells & Olson, 2003). This demonstrates how Loftus & Palmer's work can be applied in real life to prevent miscarriages of justice.
 
-(486 words — Level 4: 13–16 marks)
+Word count: 486 — Level 4 response: 13–16 marks
 
-Examiner Commentary:
+Examiner Commentary: This response is in the top band (Level 4) because there is detailed knowledge and understanding of how misleading information can affect the accuracy of EWT. Effective use of key terms is evident in the description, which is selective as it includes just one research study on leading questions and one on post-event discussion. The essay follows a coherent structure and is focused on the question rather than discussing all factors affecting EWT in general. The evaluation is effective as the strengths and limitations are clearly introduced, elaborated thoroughly and they clearly explain why they support or critique research into the effects of misleading information on eyewitness testimony.
 
-Top band. Detailed AO1 with two factors and relevant studies. Selective and focused. Evaluation is effective — each point introduced, elaborated with contextualised criticism (not generic), and linked back to the question.
+Step by step structure:
 
-Paragraph-by-Paragraph Breakdown:
+Paragraph 1: One research study on misleading information is explained in detail and includes key terms (AO1)
+Paragraph 2: Accurate detail of the findings of Loftus & Palmer's study with a link to the question (AO1)
+Paragraph 3: Another research study on misleading information described in detail, with a link to the question (AO1)
+Paragraph 4: An evaluation point is introduced and elaborated using a contextualised (rather than generic) research methods criticism. This is then linked back to the question (AO3)
+Paragraph 5: A second evaluation point is introduced, explained further and then linked back to the question (AO3)
+Paragraph 6: A counterargument is introduced, explained in detail and linked back to the question (AO3)
+How to Improve 16-Mark Performance
+One way to boost your marks is to perfect your evaluation (AO3). Think quality over quantity; it is better to cover fewer evaluation points in greater detail so that your points are effective:
 
-#	Content	AO
-1	Research study on Factor 1 (leading questions) — procedure, key terms	AO1
-2	Findings of Loftus & Palmer with link to question	AO1
-3	Research study on Factor 2 (post-event discussion) — Gabbert et al.	AO1
-4	Limitation — ecological validity, elaborated and linked	AO3
-5	Limitation — individual differences, research evidence, linked	AO3
-6	Counterargument/strength — real-world applications, linked	AO3
-9. 16-Mark Essays (With Application / Stem)
-Mark Split: AO1 = 6, AO2 = 4, AO3 = 6
+Introduce the evaluation point
+Elaborate by: giving an example, citing research evidence, drawing a comparison, or discussing implications/applications to real-life
+Link the point back to the question (what are the implications for the question?)
+Examiners say that students usually forget to include this important part when evaluating.
 
-Structure:
+Useful lead-in phrases:
 
+A strength/limitation is...
+On the other hand...
+Furthermore...
+However...
+In contrast...
+This shows that...
+This suggests that...
+This implies that...
+Worked Example of an Effective Evaluation Point (Biological Approach):
+
+Introduce: A strength of the biological approach is that it has practical applications in treatment
+
+Elaborate: A greater understanding of how imbalances of neurotransmitters in the brain may cause disorders has led to effective treatments. For example, depression has been linked to low levels of serotonin, and as a result, SSRIs are commonly used to treat depression as they increase serotonin levels.
+
+Link back to the question: This is a strength, as it means that the biological approach doesn't just theorise about causes of behaviour but also provides effective, practical treatments for mental disorders such as depression.
+
+Commentary: This is an effective evaluation point as the strength is introduced, it is explained well as a specific example has been provided. The final sentence links back to the question as it explains why this is a strength of the biological approach.
+
+12. 16-Mark Essays (With Application / Stem)
+Mark Split
+AO1 = 6, AO2 = 4, AO3 = 6
+
+How Much Should I Write?
+Around 20 minutes, which includes planning time
+Aim for 450–500 words
+Practice writing in timed conditions
+Only 6 marks for AO1 — don't describe too many studies
+4 marks for AO2 — you must spend less time on AO3 so that you can effectively engage with the stem
+It is better to cover fewer studies/theories but in greater detail
+Think quality over quantity!
+A question may ask you to describe two studies/explanations — it is fine to describe one in more detail than the other
+Structure
 #	Content	AO
 1	Describe explanation/theory 1 in detail with key terms	AO1
 2	Apply explanation 1 to the stem — create explanatory links	AO2
@@ -268,37 +534,114 @@ Structure:
 7	(Optional) Describe explanation 3 briefly	AO1
 8	Apply explanation 3 to stem	AO2
 9	PEEL evaluation of explanation 3	AO3
-Model Answer:
-
-Jay has schizophrenia. His speech is rapid and confused, and he changes constantly from one idea to something completely different. Jay's father was treated for mental health problems when younger. Jay's mother worries excessively about Jay. She often criticises his behaviour and tells him what to do. Jay's doctor prescribes medication, which seems to reduce his symptoms.
+Worked Example
+Q. Jay has schizophrenia. His speech is rapid and confused, and he changes constantly from one idea to something completely different. Jay's father was treated for mental health problems when he was younger. Jay's mother worries excessively about Jay. She often criticises his behaviour and tells him what to do. Jay's doctor prescribes medication, which seems to reduce his symptoms.
 
 Discuss one or more explanations for schizophrenia. Refer to Jay in your answer. [16 marks]
 
-Paragraph 1 (AO1): One explanation for SZ is biological — it runs in families, suggesting a genetic link. The greater the genetic similarity, the greater the likelihood of developing SZ. Twin studies show higher concordance in MZs (100% shared genes) than DZs (50%). There is also a link between first-degree relatives and shared risk.
+Model answer:
 
-Paragraph 2 (AO2): The genetic explanation could explain Jay's SZ, as his father also had mental health problems requiring treatment. This suggests Jay might have inherited his condition, particularly as they are first-degree relatives who share 50% of their genes.
+One explanation for schizophrenia (SZ) is that it is biological as it runs in families, suggesting a genetic link. The greater the genetic similarity between family members, the greater the likelihood of them developing SZ. For example, twin studies show a higher concordance rate for SZ in MZs (who share 100% of their genes) than DZs (who share 50% of their genes). There is also a link between first-degree relatives (such as parents and their children who share 50% of their genes) and shared risk of SZ.
 
-Paragraph 3 (AO3): A strength is supporting evidence. Gottesman & Shields (1966) found increased SZ incidence in adopted children with schizophrenic biological parents. They also found (1972) a concordance rate of 58% in MZ twins vs 12% for DZ twins. These findings show SZ is likely genetically inherited.
+The genetic explanation could explain why Jay has SZ, as his father also had mental health problems, which he received treatment for when young. This suggests that Jay might have inherited his condition from his father's side, particularly as they are first-degree relatives who share 50% of their genes.
 
-Paragraph 4 (AO3): However, environment cannot be ruled out. If SZ were purely genetic, MZ concordance would be 100%. As this has never been found, other factors must play a role.
+A strength is that there is evidence to support the genetic explanation of schizophrenia. Researchers (Gottesman & Shields, 1966) found an increased incidence of schizophrenia in adopted children with schizophrenic biological parent(s). They also found (in 1972) a concordance rate of 58% in MZ twins compared to a rate of 12% for DZ twins. These findings show that SZ is likely genetically inherited.
 
-Paragraph 5 (AO1 + AO2): Another explanation is the dopamine hypothesis — SZ results from excess dopamine in the subcortex (hyperdopaminergia) or low dopamine in the prefrontal cortex (hypodopaminergia). The fact that Jay's medication reduces his symptoms suggests neurotransmitter levels could also explain his condition.
+However, the influence of a person's environment cannot be ruled out. This is particularly true for MZs, as if SZ is purely genetically inherited, there would be a concordance rate of 100%. As this has never been found, other factors, such as environment, must play a role in developing SZ.
 
-Paragraph 6 (AO3): However, the dopamine hypothesis cannot explain all cases, as not all patients respond to drugs. Ripke et al. (2014) identified other neurotransmitters, such as glutamate, which may play a role. Therefore, evidence for the dopamine hypothesis is mixed.
+Another explanation is the dopamine hypothesis, which claims that SZ results from an excess of dopamine in the subcortex (hyperdopaminergia). Alternatively, hypodopaminergia assumes that low levels of dopamine in the prefrontal cortex can cause some SZ symptoms. The fact that Jay's medication reduces his symptoms suggests his neurotransmitter levels could also be a reason for his condition.
 
-Paragraph 7 (AO1): Family dysfunction can also explain SZ. The double-bind theory (DBT) describes situations where a child receives mixed messages about right and wrong. If they don't meet inconsistent standards, they are punished by withdrawal of love.
+However, a weakness is that the dopamine hypothesis cannot explain all cases of SZ, as not all patients respond to the drugs, suggesting that neurotransmitter levels are not a complete explanation for SZ. One study (Ripke et al. 2014) identified other neurotransmitters, such as glutamate, which may play an important role in SZ. Therefore, it is argued that the evidence for the dopamine hypothesis is mixed.
 
-Paragraph 8 (AO2): DBT may be a risk factor for Jay's SZ as his mother alternates between concern (worrying about him) and irritation (criticising his behaviour).
+Family dysfunction can also explain SZ. This includes the double-bind theory (DBT), which describes a situation in which the child receives mixed messages about what is right or wrong. If they don't meet the inconsistent standards imposed on them, the child is punished by withdrawal of love.
 
-Paragraph 9 (AO3): A weakness is that there is little evidence to support DBT, and such explanations have led to parent blaming. Parents have observed their child's declining mental health AND been blamed for it. Such explanations are no longer tolerated.
+DBT may be a risk factor in the development of Jay's SZ as she alternates between concern (as she worries about him) and irritation (as she criticises his behaviour).
 
-(510 words — Level 4: 13–16 marks)
+A weakness of the family dysfunction explanation is that there is little evidence to support the DBT and such explanations have led to parent blaming. This is a weakness because not only have parents had to observe their child's declining mental health, but they have experienced trauma by being blamed for the condition. Thus, such explanations are no longer tolerated by parents.
 
-Examiner Commentary:
+Word count: 510 — Level 4 response: 13–16 marks
 
-Top band. Detailed AO1 for multiple explanations. Application is effective — Jay's experiences are not simply repeated but linked to explanations. Coherent structure with good key terms. Evaluation is thorough and clearly linked.
+Examiner Commentary: This response is in the top band (Level 4) because there is detailed knowledge and understanding of one or more explanations for schizophrenia, explicitly applied to the question stem/scenario. The application is effective as Jay's experiences are not simply repeated in the essay but are linked to the explanations of schizophrenia. The essay follows a coherent structure, is focused on the question, and makes good use of key terms. The evaluation is effective as the strengths and limitations are clearly introduced, elaborated thoroughly and they clearly explain why they support or critique the explanations for schizophrenia.
 
-10. Statistical Tests Reference Table
+Step by step structure:
+
+Paragraph 1: One biological explanation for schizophrenia is explained in detail and includes key terms (AO1)
+Paragraph 2: Explanatory links made between the genetic explanation of SZ and the content of the stem (AO2)
+Paragraph 3: An evaluation point is introduced, elaborated using research evidence to support and linked back to the question (AO3)
+Paragraph 4: A counter argument is introduced, explained and linked back to the question (AO3)
+Paragraph 5: A second explanation of schizophrenia shows strong knowledge as it is detailed and includes key terms (AO1). Explanatory links made between the dopamine hypothesis and the content of the stem (AO2)
+Paragraph 6: An evaluation point is introduced, elaborated using research evidence to support and linked back to the question (AO3)
+Paragraph 7: A third explanation of schizophrenia is described in less depth than the genetic explanation (AO1)
+Paragraph 8: Explanatory links made between family dysfunction and the content of the stem (AO2)
+Paragraph 9: An evaluation point is introduced, explained in detail and linked back to the question (AO3)
+13. Issues & Debates Questions
+Overview
+The Issues and Debates section of Paper 3 assesses your understanding of the broader conceptual and ethical frameworks that underpin psychological research.
+
+You could be asked short-answer or extended-writing questions on any of the following:
+
+Gender bias and culture bias
+Ethical implications of socially sensitive research
+Free will vs. determinism
+Nature vs. nurture
+Holism vs. reductionism
+Idiographic vs. nomothetic approaches
+This is a synoptic topic, meaning you are expected to illustrate your answers with knowledge and understanding of topics studied elsewhere in the specification.
+
+Types of Essay Questions
+Without a stem:
+
+E.g., Discuss the nature-nurture debate in psychology [16 marks]
+AO1 = 6 marks, AO3 = 10 marks
+With a stem:
+
+E.g., Discuss culture bias in psychological research. Refer to one topic you have studied in your answer [8 marks]
+AO1 = 3 marks, AO2 = 2 marks, AO3 = 3 marks
+'Discuss' questions invite broader commentary than a straightforward assessment of strengths and weaknesses:
+
+The merits of both sides of a debate
+The overall contributions to psychology made by each side
+How both sides can work together in psychological research
+The improvements that can and have been made
+How to Improve on Issues & Debates
+Think about what a debate really is — a conceptual framework, not an entity with its own stance. Avoid saying "the nurture debate argues X." Instead, outline what each perspective emphasises and then discuss how they differ.
+This impacts evaluation: Don't say "one criticism of the nurture debate is..." — say "the idea that behaviour stems solely from environmental factors is flawed as..."
+Describe how particular approaches or studies illustrate the debate — e.g., social learning theory exemplifies how environment and observation (nurture) shape behaviour. Always explicitly link each study or approach to the relevant perspective.
+Acknowledge interactionist or complex perspectives — e.g., niche-picking shows how nature and nurture interact. This is a higher-level skill showing awareness that the debate is not black-and-white.
+Worked Example
+Q. Discuss gender bias in psychological research. Refer to one topic you have studied in your answer. [8 marks]
+
+Model answer:
+
+Gender bias is the failure to consider adequately the differences between men and women, with an overemphasis on the importance of biology as the driver of behaviour.
+
+There are different types of bias. Alpha bias exaggerates the differences between men and women, e.g., assuming there are differences in mating behaviour. Whereas beta bias minimises and ignores the differences between men and women, e.g., assuming men and women respond in the same way to threatening stimuli.
+
+Freud saw femininity as an expression of failed masculinity. His concept of penis envy meant that women were defined psychologically by the fact that they were not men. He went on to explain female 'vanity' as a defence mechanism: women wish to make up for their sexual inferiority to men by focusing on their 'physical charms'. Freud's research exemplifies alpha bias, as it suggests there are real differences between men and women.
+
+An issue is that gender-biased research might result in androcentrism. This is the belief that men's behaviour is the norm, so any behaviour typical of women is abnormal. This means that female behaviour is misunderstood and could lead to the creation or reinforcement of negative stereotypes, which could be used to support discriminatory practices. For example, it could provide scientific 'justification' to deny women opportunities within the workplace or in society. Therefore, gender bias in research is not just a methodological problem; it may have damaging consequences that affect the lives and prospects of women in society.
+
+However, viewing men and women as the same has led to equal treatment in legal terms and equal access to education and employment. This suggests that gender bias in research may positively affect the lives and prospects of women in society.
+
+Word count: 288 — Level 4 response: 7–8 marks
+
+Examiner Commentary: This response is in the top band (Level 4) because it shows a very strong understanding of gender bias. The application is effective as an example of gender bias in psychological research has been explained in depth. The answer is coherent, focused on the question, and makes good use of key terms specific to gender bias. The evaluation is effective as the points have been introduced, elaborated thoroughly, and they clearly explain the implications of gender bias in psychological research.
+
+Step by step structure:
+
+Paragraph 1: Concise definition of gender bias with some elaboration (AO1)
+Paragraph 2: Definitions of the types of bias shows strong knowledge (AO1)
+Paragraph 3: Concepts in Freud's psychodynamic approach are explicitly linked to a type of gender bias (AO2)
+Paragraph 4: An evaluation point is introduced, explained in detail using real-life examples and then linked to the implications of gender bias in research (AO3)
+Paragraph 5: A shorter evaluation point outlining the implications of gender bias provides a balanced response (AO3)
+Examiner Tips for Issues & Debates
+Think carefully about the wording of the novel question set — generic and pre-prepared answers will not fit a novel scenario
+Be prepared with the topics and approaches that best illustrate each side of a debate
+Practice (or at least plan) answers to lots of examples
+Ensure your answers are coherent, legible, and include paragraphs
+Take time to plan your answer before you write it
+Ensure you know how each of the debates are distinct from one another (students confuse debates, e.g., holism vs reductionism gets mixed up with free will vs determinism and nature vs nurture)
+14. Statistical Tests Reference Table
 How to Choose the Right Test
 Step 1: Is it a test of DIFFERENCE or CORRELATION?
   ├─ CORRELATION → Step 2a
@@ -322,6 +665,8 @@ Nominal	Ordinal	Interval/Ratio
 Correlation	—	Spearman's rho	Pearson's r
 Difference — Independent	Chi-squared (χ²)	Mann-Whitney U	Unrelated t-test
 Difference — Related	Sign test	Wilcoxon T	Related t-test
+Important: Chi-Squared is a test of both difference AND association (not correlation). Spearman's rho and Pearson's r are the only tests of correlation.
+
 Significance Rules
 Test	Significant when calculated value is...
 Spearman's rho	≥ critical value
@@ -342,7 +687,12 @@ Questionnaire/rating scale scores → Ordinal (NOT interval) because the differe
 Standardised psychological tests with established scales → Can be treated as interval
 Time, distance, weight → Interval/ratio
 Categories counted → Nominal
-11. Key Evaluation Acronyms & Frameworks
+Mnemonic
+Carrots should come mashed with swede under roast potatoes
+
+This helps remember the order of the tests in the table. Practice filling out the table without notes to test recall.
+
+15. Key Evaluation Acronyms & Frameworks
 PEEL Structure (Use for EVERY AO3 point)
 Letter	Action	Example
 P — Point	State a clear strength or limitation	"A strength is that there is supporting research evidence."
@@ -361,7 +711,7 @@ Reductionism	"A limitation is that [theory] is reductionist as it reduces [compl
 Nature vs Nurture	"The [approach] takes a [nature/nurture] position, arguing that behaviour is primarily influenced by [genes/environment]..."
 Ethical issues	"A limitation is that the research raises ethical concerns regarding [deception/informed consent/psychological harm] because..."
 Reliability	"A strength is that the research used [standardised procedures/inter-observer reliability], making the findings more reliable because..."
-12. General Exam Technique Rules
+16. General Exam Technique Rules
 Universal Rules
 Always use psychological terminology — e.g., "ecological validity" not "it's not realistic"
 Always name researchers and dates when citing studies — e.g., "Loftus & Palmer (1974)"
@@ -383,13 +733,33 @@ Application may quote the stem without explaining why	Application creates explan
 Key terms may be used but not consistently	Key terms used confidently throughout
 Structure may wander	Structure is coherent and focused — clear line of argument
 May describe evaluation rather than analyse	Evaluation points clearly explain why something is a strength/limitation
-Probability & Significance — Key Phrases
-p ≤ 0.05 = "There is a 5% or less probability that the results are due to chance"
-Significant result = "The null hypothesis can be rejected and the alternative hypothesis accepted"
-Not significant = "The null hypothesis is retained; the results could be due to chance"
-Type I error = Rejecting the null hypothesis when it is true (false positive) — more likely with lenient significance levels (e.g., p ≤ 0.10)
-Type II error = Retaining the null hypothesis when it is false (false negative) — more likely with stringent significance levels (e.g., p ≤ 0.01)
-Quick-Use Instructions for AI Models
+17. Dos and Don'ts
+Do ✅
+Write in continuous prose rather than bullet points
+Use appropriate key terms
+Ensure that you know all the studies specifically named on the specification
+You can include diagrams if they help explain your answer, e.g., models of memory
+Ensure you know and use studies effectively (no need to include names of researchers for studies used as evaluation or wider knowledge, but use the studies effectively)
+Your answer needs to be clear, coherent and focused
+Don't ❌
+Don't write an introduction or conclusion if it doesn't go beyond the material presented in the body of the essay
+Don't be tempted to include your own opinion — psychology is evidence-based
+You are not assessed on spelling and grammar, but your answer needs to be clear
+When evaluating, avoid using the phrase "this proves that..." — nothing is proven in psychology!
+18. Examiner Tips and Tricks
+Examiners have suggested the following advice to improve performance on extended writing questions:
+
+Read the question carefully and focus on the specific wording used
+Answer the question you have been presented with, not the one you hoped for
+Take time to plan so that you can write an organised answer focused on the specific question
+Use paragraphs to help with coherence and structure
+Engage with the stem material by making links with theory/explanations
+Elaborate on evaluation points by developing a line of argument, justifying points raised using evidence, and making use of counterarguments and alternative explanations
+Link your evaluation points back to the question
+Methodological evaluation should be specific to the study, not generic:
+❌ Generic: "The research is correlational so it doesn't show cause and effect"
+✅ Contextualised: "The research is correlational, so it doesn't show cause and effect between stress and illness. Although a relationship exists between these co-variables, it is difficult to conclude whether stress causes illness or the other way round, or if an intervening variable (e.g., poor diet) plays a role"
+19. Quick-Use Instructions for AI Models
 When answering an AQA A-Level Psychology question:
 
 Identify the question type from the marks and command words
@@ -400,65 +770,37 @@ Use PEEL for every AO3 point — no exceptions
 If there's a stem/scenario, create explanatory links (AO2) — don't just quote it
 Use specific researchers, dates, and findings — never be vague
 Use psychological key terms throughout — this is what separates Level 3 from Level 4
-For statistical test questions, follow the decision flowchart in Section 10
+For statistical test questions, follow the decision flowchart in Section 14
 For significance questions, check one-tailed vs two-tailed, N/df, and p-value before reading the table
+Model 16-Mark Answers (Additional Reference)
+Model Answer 1: Eyewitness Testimony (No Application)
+Leading questions' impact on eyewitness testimony's (EWT) accuracy was examined by Loftus & Palmer (1974). After showing film clips of car accidents to American students, they questioned them about the incident. Participants were asked to describe how fast the cars were going when they hit each other. The verb "hit" implies the speed at which the car was travelling, so this was a leading question. Each of the five participant groups received a distinct verb in the crucial question, such as contacted, bumped, collided, or smashed.
 
-Model 16-markers:
-
-Leading questions’ impact on eyewitness testimony’s (EWT) accuracy was examined by Loftus & Palmer (1974). After showing film clips of car accidents to American students, they questioned them about the incident. Participants were asked to describe how fast the cars were going when they hit each other. The verb “hit” implies the speed at which the car was travelling, so this was a leading question. Each of the five participant groups received a distinct verb in the crucial question, such as contacted, bumped, collided, or smashed.
-
- 
-
-For every participant group, the mean estimated speed was calculated. For the verb “contacted,” the mean estimated speed was 31.8 mph, and for the verb “smashed,” the mean was 40.5 mph. The findings demonstrate that leading questions have an impact on EWT accuracy.
-
- 
+For every participant group, the mean estimated speed was calculated. For the verb "contacted," the mean estimated speed was 31.8 mph, and for the verb "smashed," the mean was 40.5 mph. The findings demonstrate that leading questions have an impact on EWT accuracy.
 
 Post-event discussion is another factor affecting the accuracy of EWT. In one study (Gabbert et al., 2003), participants watched a video of the same crime, had a discussion about what they saw, and then took a recall test individually. 71% of participants misrecalled details of the incident that they had heard about during the discussion but had not seen in the video. This shows how conversations among co-witnesses about a crime can taint their EWTs, as they may incorporate (mis)information from other witnesses into their own recollections.
 
- 
-
-A limitation of Loftus & Palmer’s study is that they watched film clips of car accidents. Since the clips do not have the same level of stress as an actual accident, this is very different from actually witnessing an accident. This is a limitation because research using these artificial tasks lacks ecological validity because they may not provide much information about how leading questions influence EWT in actual criminal cases. Given that the consequences of what is remembered in real life can be very significant, EWT may be more reliable than many studies indicate.
-
- 
+A limitation of Loftus & Palmer's study is that they watched film clips of car accidents. Since the clips do not have the same level of stress as an actual accident, this is very different from actually witnessing an accident. This is a limitation because research using these artificial tasks lacks ecological validity because they may not provide much information about how leading questions influence EWT in actual criminal cases. Given that the consequences of what is remembered in real life can be very significant, EWT may be more reliable than many studies indicate.
 
 Individual differences are a further limitation of research on false information on EWT. Research indicates that younger people provide more accurate eyewitness reports than older people do. Individuals in the 18–25 and 35–45 age groups were found to be more accurate than those in the 55–78 age group, according to one study (Anastasi & Rhodes, 2006). Because Loftus and Palmer used university students, when age may have an impact on EWT, their results cannot easily be generalised to other age groups; therefore, their findings lack population validity.
 
- 
+On the other hand, one of the study's strengths is that it has significant real-world implications, as inaccurate EWT can have grave consequences. As mistaken eyewitness identification is the biggest single factor leading to the conviction of innocent people, Loftus (1975) believes that leading questions can have such a distorting effect on memory that police officers should be careful about how they phrase their questions when interviewing eyewitnesses (Wells & Olson, 2003). This demonstrates how Loftus & Palmer's work can be applied in real life to prevent miscarriages of justice.
 
-On the other hand, one of the study's strengths is that it has significant real-world implications, as inaccurate EWT can have grave consequences. As mistaken eyewitness identification is the biggest single factor leading to the conviction of innocent people, Loftus (1975) believes that leading questions can have such a distorting effect on memory that police officers should be careful about how they phrase their questions when interviewing eyewitnesses (Wells & Olson, 2003). This demonstrates how Loftus & Palmer’s work can be applied in real life to prevent miscarriages of justice
+Model Answer 2: Schizophrenia (With Application / Stem)
+One explanation for schizophrenia (SZ) is that it is biological as it runs in families, suggesting a genetic link. The greater the genetic similarity between family members, the greater the likelihood of them developing SZ. For example, twin studies show a higher concordance rate for SZ in MZs (who share 100% of their genes) than DZs (who share 50% of their genes). There is also a link between first-degree relatives (such as parents and their children who share 50% of their genes) and shared risk of SZ.
 
-2nd Model Answer:
+The genetic explanation could explain why Jay has SZ, as his father also had mental health problems, which he received treatment for when young. This suggests that Jay might have inherited his condition from his father's side, particularly as they are first-degree relatives who share 50% of their genes.
 
-One explanation for schizophrenia (SZ) is that it is biological as it runs in families, suggesting a genetic link. The greater the genetic similarity between family members, the greater the likelihood of them developing SZ. For example, twin studies show a higher concordance rate for SZ in MZs (who share 100% of their genes) than DZs (who share 50% of their genes). There is also a link between first-degree relatives (such as parents and their children who share 50% of their genes) and shared risk of SZ. 
+A strength is that there is evidence to support the genetic explanation of schizophrenia. Researchers (Gottesman & Shields, 1966) found an increased incidence of schizophrenia in adopted children with schizophrenic biological parent(s). They also found (in 1972) a concordance rate of 58% in MZ twins compared to a rate of 12% for DZ twins. These findings show that SZ is likely genetically inherited.
 
- 
+However, the influence of a person's environment cannot be ruled out. This is particularly true for MZs, as if SZ is purely genetically inherited, there would be a concordance rate of 100%. As this has never been found, other factors, such as environment, must play a role in developing SZ.
 
-The genetic explanation could explain why Jay has SZ, as his father also had mental health problems, which he received treatment for when young. This suggests that Jay might have inherited his condition from his father’s side, particularly as they are first-degree relatives who share 50% of their genes. 
+Another explanation is the dopamine hypothesis, which claims that SZ results from an excess of dopamine in the subcortex (hyperdopaminergia). Alternatively, hypodopaminergia assumes that low levels of dopamine in the prefrontal cortex can cause some SZ symptoms. The fact that Jay's medication reduces his symptoms suggests his neurotransmitter levels could also be a reason for his condition.
 
- 
+However, a weakness is that the dopamine hypothesis cannot explain all cases of SZ, as not all patients respond to the drugs, suggesting that neurotransmitter levels are not a complete explanation for SZ. One study (Ripke et al. 2014) identified other neurotransmitters, such as glutamate, which may play an important role in SZ. Therefore, it is argued that the evidence for the dopamine hypothesis is mixed.
 
-A strength is that there is evidence to support the genetic explanation of schizophrenia. Researchers (Gottesman & Shields, 1966) found an increased incidence of schizophrenia in adopted children with schizophrenic biological parent(s). They also found (in 1972) a concordance rate of 58% in MZ twins compared to a rate of 12% for DZ twins. These findings show that SZ is likely genetically inherited. 
+Family dysfunction can also explain SZ. This includes the double-bind theory (DBT), which describes a situation in which the child receives mixed messages about what is right or wrong. If they don't meet the inconsistent standards imposed on them, the child is punished by withdrawal of love.
 
- 
+DBT may be a risk factor in the development of Jay's SZ as she alternates between concern (as she worries about him) and irritation (as she criticises his behaviour).
 
-However, the influence of a person’s environment cannot be ruled out. This is particularly true for MZs, as if SZ is purely genetically inherited, there would be a concordance rate of 100%. As this has never been found, other factors, such as environment, must play a role in developing SZ. 
-
- 
-
-Another explanation is the dopamine hypothesis, which claims that SZ results from an excess of dopamine in the subcortex (hyperdopaminergia). Alternatively, hypodopaminergia assumes that low levels of dopamine in the prefrontal cortex can cause some SZ symptoms. The fact that Jay’s medication reduces his symptoms suggests his neurotransmitter levels could also be a reason for his condition. 
-
- 
-
-However, a weakness is that the dopamine hypothesis cannot explain all cases of SZ, as not all patients respond to the drugs, suggesting that neurotransmitter levels are not a complete explanation for SZ. One study (Ripke et al. 2014) identified other neurotransmitters, such as glutamate, which may play an important role in SZ. Therefore, it is argued that the evidence for the dopamine hypothesis is mixed. 
-
- 
-
-Family dysfunction can also explain SZ. This includes the double-bind theory (DBT), which describes a situation in which the child receives mixed messages about what is right or wrong. If they don’t meet the inconsistent standards imposed on them, the child is punished by withdrawal of love. 
-
- 
-
-DBT may be a risk factor in the development of Jay’s SZ as she alternates between concern (as she worries about him) and irritation (as she criticises his behaviour).
-
- 
-
-A weakness of the family dysfunction explanation is that there is little evidence to support the DBT and such explanations have led to parent blaming. This is a weakness because not only have parents had to observe their child’s declining mental health, but they have experienced trauma by being blamed for the condition. Thus, such explanations are no longer tolerated by parents. 
+A weakness of the family dysfunction explanation is that there is little evidence to support the DBT and such explanations have led to parent blaming. This is a weakness because not only have parents had to observe their child's declining mental health, but they have experienced trauma by being blamed for the condition. Thus, such explanations are no longer tolerated by parents.
