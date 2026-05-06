@@ -1,231 +1,308 @@
- Overview of Assessment Objectives
-AO	What It Tests	What to Do
-AO1	Knowledge & Understanding	Describe, outline, identify, state theories/studies/concepts with key terminology
-AO2	Application	Apply psychological knowledge to a novel scenario/stem — do NOT just quote the stem; explain WHY the behaviour fits the theory
-AO3	Analysis & Evaluation	Evaluate using PEEL (Point, Evidence, Explain, Link) — strengths, limitations, methodological issues, supporting/contradicting research, real-world applications, ethical issues
-2. Question Types at a Glance
-Marks	Type	AO Split	Time (approx.)	Word Count Target
-4	Short answer / Statistical test (no context)	AO1/AO2	3–5 min	~80 words
-4	Critical value / significance	AO2	3–4 min	~60 words
-6	Short essay / Application	AO1=3, AO3=3 or AO1=3, AO2=3	6–7 min	~150 words
-7	Statistical test (with context)	AO2	6–7 min	~120 words
-8	Essay (no application)	AO1=3, AO3=5	10 min	~250 words
-8	Essay (with application)	AO1=3, AO2=2, AO3=3	10 min	~225 words
-12	Research design	AO1/AO2/AO3 mixed	15 min	~300 words
-12	Essay (no application)	AO1=6, AO3=6	15 min	~350 words
-16	Essay (no application)	AO1=6, AO3=10	20 min	~500 words
-16	Essay (with application)	AO1=6, AO2=4, AO3=6	20 min	~510 words
-3. 4-Mark Questions
-Structure
-4-marker questions generally require 4 points using a PEE structure (Point, Evidence, Explanation), or two detailed, well-explained points (2 marks each). Focus on conciseness, using specific terminology and linking directly to the question (AO1/AO2).
+## 1. Overview of Assessment Objectives
 
-Key Strategies
-PEE Structure: Each paragraph should make a clear point, provide evidence (studies or terms), and explain the link to the question
-Time Management: Spend roughly 4–5 minutes on a 4-mark question
-Direct Application: If the question includes a stem (scenario), you must use specific context to gain marks
-Focus on AO1/AO2: Usually, 4-markers focus on describing (AO1) or applying/explaining (AO2) rather than evaluating (AO3)
-Common 4-Marker Requirements
-Requirement	Structure
-Outline 2 differences/similarities	2 paragraphs. Point + Detail for each (e.g., "Difference 1: [Point] because [Detail]. Difference 2: [Point] because [Detail]")
-"Explain why..."	Use the "Chain of Reasoning" approach to show cause and effect
-Application questions	"The theory suggests X... and in the scenario, Y happened... therefore, Z."
-4. 6-Mark Questions
-Mark Split
-AO1 = 3, AO3 = 3 or AO1 = 3, AO2 = 3
+| AO | What It Tests | What to Do |
+|----|---------------|------------|
+| **AO1** | Knowledge & Understanding | Describe, outline, identify, state theories/studies/concepts with key terminology |
+| **AO2** | Application | Apply psychological knowledge to a novel scenario/stem — do NOT just quote the stem; explain WHY the behaviour fits the theory |
+| **AO3** | Analysis & Evaluation | Evaluate using PEEL (Point, Evidence, Explain, Link) — strengths, limitations, methodological issues, supporting/contradicting research, real-world applications, ethical issues |
 
-Recommended Structure
-Paragraph	Content
-1 (AO1 + AO2/3)	Outline a key concept/finding and apply it to the scenario or briefly evaluate it
-2 (AO1 + AO2/3)	Outline a second key concept/finding and apply it to the scenario or evaluate it further
-Key Tips
-Time Management: Spend approximately 6–7 minutes on these questions
-Application Questions: Often require you to apply your knowledge to a scenario (e.g., explaining a behaviour described in the prompt)
-Definition Questions: Focus on precise, detailed knowledge rather than extensive evaluation
-Ensure precise, accurate terminology (AO1) and direct application (AO2) or critical evaluation (AO3)
-5. Statistical Test Questions (4 & 7 marks)
-5A. 4-Mark Version (No Context Required)
-Structure:
+---
 
-Identification (1 mark): State the name of the test
-Justification 1 — Test type (1 mark): Is the researcher looking for a difference or a correlation/association?
-Justification 2 — Design (1 mark): Is it independent groups (unrelated) or repeated measures/matched pairs (related)? OR is it a correlational design?
-Justification 3 — Data type (1 mark): Is the data nominal (categories), ordinal (ordered/ranked/rating scales), or interval/ratio (measurable with equal intervals)?
-Model Answer:
+## 2. Question Types at a Glance
 
-A psychology teacher conducted an independent groups experiment with 30 students using a happiness questionnaire.
+| Marks | Type | AO Split | Time (approx.) | Word Count Target |
+|-------|------|----------|----------------|-------------------|
+| 4 | Short answer / Statistical test (no context) | AO1/AO2 | 3–5 min | ~80 words |
+| 4 | Critical value / significance | AO2 | 3–4 min | ~60 words |
+| 6 | Short essay / Application | AO1=3, AO3=3 or AO1=3, AO2=3 | 6–7 min | ~150 words |
+| 7 | Statistical test (with context) | AO2 | 6–7 min | ~120 words |
+| 8 | Essay (no application) | AO1=3, AO3=5 | 10 min | ~250 words |
+| 8 | Essay (with application) | AO1=3, AO2=2, AO3=3 | 10 min | ~225 words |
+| 12 | Research design | AO1/AO2/AO3 mixed | 15 min | ~300 words |
+| 12 | Essay (no application) | AO1=6, AO3=6 | 15 min | ~350 words |
+| 16 | Essay (no application) | AO1=6, AO3=10 | 20 min | ~500 words |
+| 16 | Essay (with application) | AO1=6, AO2=4, AO3=6 | 20 min | ~510 words |
 
-Answer:
+---
 
-The most appropriate test is the Mann-Whitney U test.
+## 3. 4-Mark Questions
 
-This is because:
+### Structure
 
-The teacher is looking for a difference (between the two groups' happiness scores)
-It is an independent groups design (different participants in each group)
-She collected ordinal data (happiness questionnaire produces ranked/ordered data)
-5B. 7-Mark Version (With Context Required)
-Structure:
+4-marker questions generally require 4 points using a **PEE structure** (Point, Evidence, Explanation), or two detailed, well-explained points (2 marks each). Focus on conciseness, using specific terminology and linking directly to the question (AO1/AO2).
 
-Identification (1 mark): Name the statistical test
-Justification 1 + Context (2 marks): State whether looking for difference/correlation AND link explicitly to the study
-Justification 2 + Context (2 marks): State the design AND explain why using study details
-Justification 3 + Context (2 marks): State the data type AND explain why using study details
-Each justification = 1 mark for the reason + 1 mark for applying to the scenario. You MUST contextualise each point.
+### Key Strategies
 
-Model Answer:
+- **PEE Structure:** Each paragraph should make a clear point, provide evidence (studies or terms), and explain the link to the question
+- **Time Management:** Spend roughly 4–5 minutes on a 4-mark question
+- **Direct Application:** If the question includes a stem (scenario), you must use specific context to gain marks
+- **Focus on AO1/AO2:** Usually, 4-markers focus on describing (AO1) or applying/explaining (AO2) rather than evaluating (AO3)
 
-A psychologist tested the effects of recreational screen time on children's academic performance. 58 pupils randomly allocated to Group A (no screen time) or Group B (unrestricted screen time). All completed a 45-minute class test.
+### Common 4-Marker Requirements
 
-Answer:
+| Requirement | Structure |
+|-------------|-----------|
+| **Outline 2 differences/similarities** | 2 paragraphs. Point + Detail for each (e.g., "Difference 1: [Point] because [Detail]. Difference 2: [Point] because [Detail]") |
+| **"Explain why..."** | Use the "Chain of Reasoning" approach to show cause and effect |
+| **Application questions** | "The theory suggests X... and in the scenario, Y happened... therefore, Z." |
 
-The most appropriate test is the Mann-Whitney U test.
+---
 
-This is because:
+## 4. 6-Mark Questions
 
-The teacher is looking for a difference — specifically, between no recreational screen time and unlimited recreational screen time on exam performance
-It is an independent groups design — as the pupils either had no recreational screen time OR unlimited recreational screen time (they were in one group only)
-She collected ordinal data — as the difference between each test score is not fixed (test scores from a class test are ranked/ordered data)
-Examiner Commentary: This receives full marks (7/7) as the statistical test is correctly identified for 1 mark along with three correct justifications for 3 marks. Each justification is explicitly linked to the study and therefore receives a further 3 marks.
+### Mark Split
 
-6. Critical Value / Significance Table Questions
-Structure (4 marks)
-Identify the critical value (1 mark): State the exact number from the table
-Justify — One-tailed or two-tailed (1 mark): Is the hypothesis directional (one-tailed) or non-directional (two-tailed)?
-Justify — N or df value (1 mark): State the number of participants / degrees of freedom
-Justify — Significance level (1 mark): State the p-value (e.g., 0.05)
-Key Rules for Reading Tables
-Check whether calculated value must be ≥ critical value (Spearman's, Pearson's, Chi-squared) or ≤ critical value (Mann-Whitney, Wilcoxon, Sign test) to be significant
-One-tailed = directional hypothesis (predicts a specific direction)
-Two-tailed = non-directional hypothesis (predicts a difference/correlation but not direction)
-Model Answer
-A researcher hypothesised a positive correlation between hours slept and feeling rested. N = 18, one-tailed, p ≤ 0.05. Calculated rho = 0.395. The critical value for rho must be ≥ calculated value.
+AO1 = 3, AO3 = 3 **or** AO1 = 3, AO2 = 3
 
-Answer:
+### Recommended Structure
 
-The critical value is 0.401.
+| Paragraph | Content |
+|-----------|---------|
+| **1** (AO1 + AO2/3) | Outline a key concept/finding and apply it to the scenario or briefly evaluate it |
+| **2** (AO1 + AO2/3) | Outline a second key concept/finding and apply it to the scenario or evaluate it further |
+
+### Key Tips
+
+- **Time Management:** Spend approximately 6–7 minutes on these questions
+- **Application Questions:** Often require you to apply your knowledge to a scenario (e.g., explaining a behaviour described in the prompt)
+- **Definition Questions:** Focus on precise, detailed knowledge rather than extensive evaluation
+- Ensure **precise, accurate terminology** (AO1) and **direct application** (AO2) or **critical evaluation** (AO3)
+
+---
+
+## 5. Statistical Test Questions (4 & 7 marks)
+
+### 5A. 4-Mark Version (No Context Required)
+
+**Structure:**
+
+1. **Identification** (1 mark): State the name of the test
+2. **Justification 1 — Test type** (1 mark): Is the researcher looking for a difference or a correlation/association?
+3. **Justification 2 — Design** (1 mark): Is it independent groups (unrelated) or repeated measures/matched pairs (related)? OR is it a correlational design?
+4. **Justification 3 — Data type** (1 mark): Is the data nominal (categories), ordinal (ordered/ranked/rating scales), or interval/ratio (measurable with equal intervals)?
+
+**Model Answer:**
+
+> *A psychology teacher conducted an independent groups experiment with 30 students using a happiness questionnaire.*
+
+**Answer:**
+
+The most appropriate test is the **Mann-Whitney U test**.
 
 This is because:
+- The teacher is looking for a **difference** (between the two groups' happiness scores)
+- It is an **independent groups design** (different participants in each group)
+- She collected **ordinal data** (happiness questionnaire produces ranked/ordered data)
 
-The hypothesis is directional (positive correlation), so it is a one-tailed test
-There are 18 participants, so N = 18
-The level of significance is 0.05 (5%)
-Since the calculated value (0.395) is less than the critical value (0.401), the result is not significant and we must retain the null hypothesis.
+---
 
-7. Probability & Significance Questions
-Using Statistical Tables to Determine Significance
-After determining the correct statistical test, the psychologist will calculate the data they have collected, which will produce an observed or calculated value (represented as a test statistic, e.g., U = 40, T = 20).
+### 5B. 7-Mark Version (With Context Required)
 
-You will always be given the calculated/observed value in the exam paper for all the statistical tests except the sign test, as you may have to calculate it yourself.
+**Structure:**
 
-Steps for Selecting the Correct Critical Value
-Is the hypothesis directional (one-tailed) or non-directional (two-tailed)?
-How many participants (N) were in the study? (For some tests, this is degrees of freedom (df) instead)
-What is the level of significance? (The standard is p ≤ 0.05)
-Find the critical value by looking across the correct row and down the correct column
-Compare the calculated value with the critical value
-How to Write a Statement of Significance
+1. **Identification** (1 mark): Name the statistical test
+2. **Justification 1 + Context** (2 marks): State whether looking for difference/correlation AND link explicitly to the study
+3. **Justification 2 + Context** (2 marks): State the design AND explain why using study details
+4. **Justification 3 + Context** (2 marks): State the data type AND explain why using study details
+
+Each justification = 1 mark for the reason + 1 mark for applying to the scenario. You **MUST** contextualise each point.
+
+**Model Answer:**
+
+> *A psychologist tested the effects of recreational screen time on children's academic performance. 58 pupils randomly allocated to Group A (no screen time) or Group B (unrestricted screen time). All completed a 45-minute class test.*
+
+**Answer:**
+
+The most appropriate test is the **Mann-Whitney U test**.
+
+This is because:
+- The teacher is looking for a **difference** — specifically, between no recreational screen time and unlimited recreational screen time on exam performance
+- It is an **independent groups design** — as the pupils either had no recreational screen time OR unlimited recreational screen time (they were in one group only)
+- She collected **ordinal data** — as the difference between each test score is not fixed (test scores from a class test are ranked/ordered data)
+
+**Examiner Commentary:**
+This receives full marks (7/7) as the statistical test is correctly identified for 1 mark along with three correct justifications for 3 marks. Each justification is explicitly linked to the study and therefore receives a further 3 marks.
+
+---
+
+## 6. Critical Value / Significance Table Questions
+
+### Structure (4 marks)
+
+1. **Identify the critical value** (1 mark): State the exact number from the table
+2. **Justify — One-tailed or two-tailed** (1 mark): Is the hypothesis directional (one-tailed) or non-directional (two-tailed)?
+3. **Justify — N or df value** (1 mark): State the number of participants / degrees of freedom
+4. **Justify — Significance level** (1 mark): State the p-value (e.g., 0.05)
+
+### Key Rules for Reading Tables
+
+- Check whether calculated value must be **≥ critical value** (Spearman's, Pearson's, Chi-squared) or **≤ critical value** (Mann-Whitney, Wilcoxon, Sign test) to be significant
+- **One-tailed** = directional hypothesis (predicts a specific direction)
+- **Two-tailed** = non-directional hypothesis (predicts a difference/correlation but not direction)
+
+### Model Answer
+
+> *A researcher hypothesised a positive correlation between hours slept and feeling rested. N = 18, one-tailed, p ≤ 0.05. Calculated rho = 0.395. The critical value for rho must be ≥ calculated value.*
+
+**Answer:**
+
+The critical value is **0.401**.
+
+This is because:
+- The hypothesis is **directional** (positive correlation), so it is a **one-tailed test**
+- There are 18 participants, so **N = 18**
+- The level of significance is **0.05** (5%)
+
+Since the calculated value (0.395) is less than the critical value (0.401), the result is **not significant** and we must retain the null hypothesis.
+
+---
+
+## 7. Probability & Significance Questions
+
+### Using Statistical Tables to Determine Significance
+
+After determining the correct statistical test, the psychologist will calculate the data they have collected, which will produce an **observed or calculated value** (represented as a test statistic, e.g., U = 40, T = 20).
+
+You will always be given the calculated/observed value in the exam paper for all the statistical tests **except the sign test**, as you may have to calculate it yourself.
+
+### Steps for Selecting the Correct Critical Value
+
+1. Is the hypothesis **directional** (one-tailed) or **non-directional** (two-tailed)?
+2. How many participants (**N**) were in the study? (For some tests, this is **degrees of freedom (df)** instead)
+3. What is the **level of significance**? (The standard is p ≤ 0.05)
+4. Find the critical value by looking across the correct row and down the correct column
+5. Compare the calculated value with the critical value
+
+### How to Write a Statement of Significance
+
 A statement of significance should include:
 
-The calculated value and whether it is equal to, more than, or less than the critical value
-Whether the result is significant or not at the stated significance level
-Whether the study has a one-tailed or two-tailed hypothesis
-The number of participants (N) or degrees of freedom (df)
-What happens to the null hypothesis:
-Significant → null hypothesis is rejected and the alternative hypothesis is accepted
-Not significant → null hypothesis is accepted and the alternative hypothesis is rejected
-Example statement:
+- The calculated value and whether it is equal to, more than, or less than the critical value
+- Whether the result is significant or not at the stated significance level
+- Whether the study has a one-tailed or two-tailed hypothesis
+- The number of participants (N) or degrees of freedom (df)
+- What happens to the null hypothesis:
+  - **Significant** → null hypothesis is **rejected** and the alternative hypothesis is **accepted**
+  - **Not significant** → null hypothesis is **accepted** and the alternative hypothesis is **rejected**
 
-"As the calculated value of U (10.5) is less than the critical value (17), the result is significant at a 0.05 significance level for a two-tailed test, where N1 = 10 and N2 = 8. This means that we can reject the null hypothesis and accept the alternative hypothesis."
+**Example statement:**
+> "As the calculated value of U (10.5) is less than the critical value (17), the result is significant at a 0.05 significance level for a two-tailed test, where N1 = 10 and N2 = 8. This means that we can reject the null hypothesis and accept the alternative hypothesis."
 
-Worked Example: Identifying the Critical Value (4 marks)
-A researcher hypothesised a positive correlation between hours slept and feeling rested. 18 participants. 5% significance. Calculated Spearman's rho = 0.395.
+### Worked Example: Identifying the Critical Value (4 marks)
 
-Q1. Identify the appropriate critical value from the table above. Explain your choice. [4 marks]
+> *A researcher hypothesised a positive correlation between hours slept and feeling rested. 18 participants. 5% significance. Calculated Spearman's rho = 0.395.*
 
-Answer:
+**Q1. Identify the appropriate critical value from the table above. Explain your choice. [4 marks]**
 
-The critical value is 0.401 [1 mark]
+**Answer:**
 
-The hypothesis is directional/it is a one-tailed test
-There are 18 participants so N = 18
-The level of significance is 0.05 [3 marks]
-Worked Example: Statement of Significance (3 marks)
-Q2. Explain whether the results are significant. Refer to the critical value identified in Q1 in your answer. [3 marks]
+The critical value is **0.401** [1 mark]
 
-Model answer:
+- The hypothesis is directional/it is a **one-tailed test**
+- There are 18 participants so **N = 18**
+- The level of significance is **0.05** [3 marks]
 
-As the calculated value of rho (0.395) is less than the critical value (0.401), the result is not significant at a 0.05 significance level for a one-tailed test, where N = 18. This means that we can accept the null hypothesis and reject the alternative hypothesis. [3 marks]
+### Worked Example: Statement of Significance (3 marks)
 
-Key Phrases for Probability & Significance
-Phrase	Meaning
-p ≤ 0.05	"There is a 5% or less probability that the results are due to chance"
-Significant result	"The null hypothesis can be rejected and the alternative hypothesis accepted"
-Not significant	"The null hypothesis is retained; the results could be due to chance"
-Type I error	Rejecting the null hypothesis when it is true (false positive) — more likely with lenient significance levels (e.g., p ≤ 0.10)
-Type II error	Retaining the null hypothesis when it is false (false negative) — more likely with stringent significance levels (e.g., p ≤ 0.01)
-Examiner Tips for Significance Questions
-Read the stem carefully and focus on the specific wording used
-Read the stem more than once — there is usually a lot of information provided
-Highlight, underline, and annotate parts of the stem before answering
-Highlight, circle, or underline the chosen critical value in the table (you can still earn a mark if you forget to include the value in your answer)
-If not given a significance value, remember the usual level in psychology is 0.05
-Remember that the only test you need to calculate is the sign test
-8. 8-Mark Essays (No Application)
-Overview
-8-mark questions appear as extended writing questions in Papers 1, 2 and 3, and they assess your ability to:
+**Q2. Explain whether the results are significant. Refer to the critical value identified in Q1 in your answer. [3 marks]**
 
-Demonstrate knowledge and understanding of scientific ideas, processes, techniques and procedures (AO1)
-Critically analyse and evaluate in a well-constructed argument (AO3)
-Make judgements and draw conclusions (AO3)
-Mark Split
-AO1 = 3, AO3 = 5
+**Model answer:**
 
-The 'outline' part of the question assesses AO1 = 3 marks
-The 'evaluate' part of the question assesses AO3 = 5 marks
-Types of 8-Mark Essay Questions
-'Outline and evaluate' = present key points about the topic and their strengths and weaknesses
-'Compare' = consider both similarities and differences
-'Discuss' = invites a broader commentary than a straightforward assessment of strengths and weaknesses
-8-mark essay questions tend to be more focused and specific than 16-mark essay questions. You could be asked to discuss a particular key study, an element of an explanation, or a specific concept.
+As the calculated value of rho (0.395) is **less than** the critical value (0.401), the result is **not significant** at a 0.05 significance level for a one-tailed test, where N = 18. This means that we can **accept the null hypothesis** and **reject the alternative hypothesis**. [3 marks]
+
+### Key Phrases for Probability & Significance
+
+| Phrase | Meaning |
+|--------|---------|
+| p ≤ 0.05 | "There is a 5% or less probability that the results are due to chance" |
+| Significant result | "The null hypothesis can be rejected and the alternative hypothesis accepted" |
+| Not significant | "The null hypothesis is retained; the results could be due to chance" |
+| Type I error | Rejecting the null hypothesis when it is true (false positive) — more likely with lenient significance levels (e.g., p ≤ 0.10) |
+| Type II error | Retaining the null hypothesis when it is false (false negative) — more likely with stringent significance levels (e.g., p ≤ 0.01) |
+
+### Examiner Tips for Significance Questions
+
+- Read the stem carefully and focus on the specific wording used
+- Read the stem more than once — there is usually a lot of information provided
+- Highlight, underline, and annotate parts of the stem before answering
+- Highlight, circle, or underline the chosen critical value in the table (you can still earn a mark if you forget to include the value in your answer)
+- If not given a significance value, remember the usual level in psychology is **0.05**
+- Remember that the only test you need to **calculate** is the **sign test**
+
+---
+
+## 8. 8-Mark Essays (No Application)
+
+### Overview
+
+8-mark questions appear as extended writing questions in **Papers 1, 2 and 3**, and they assess your ability to:
+
+- Demonstrate knowledge and understanding of scientific ideas, processes, techniques and procedures (**AO1**)
+- Critically analyse and evaluate in a well-constructed argument (**AO3**)
+- Make judgements and draw conclusions (**AO3**)
+
+### Mark Split
+
+**AO1 = 3, AO3 = 5**
+
+- The 'outline' part of the question assesses **AO1 = 3 marks**
+- The 'evaluate' part of the question assesses **AO3 = 5 marks**
+
+### Types of 8-Mark Essay Questions
+
+- **'Outline and evaluate'** = present key points about the topic and their strengths and weaknesses
+- **'Compare'** = consider both similarities and differences
+- **'Discuss'** = invites a broader commentary than a straightforward assessment of strengths and weaknesses
+
+8-mark essay questions tend to be **more focused and specific** than 16-mark essay questions. You could be asked to discuss a particular key study, an element of an explanation, or a specific concept.
 
 Any of these types of questions could also be presented with a scenario or stem (see Section 9).
 
-Examples of Typical 8-Mark Essay Questions
-Outline and evaluate research into duration in memory [8 marks]
+### Examples of Typical 8-Mark Essay Questions
 
-Describe theories or research studies into duration in memory (AO1 = 3 marks)
-Evaluate theories or research studies into duration in memory (AO3 = 5 marks)
-Outline Rusbult's model of romantic relationships. Explain one or more strength(s) of Rusbult's model [8 marks]
+- **Outline and evaluate research into duration in memory [8 marks]**
+  - Describe theories or research studies into duration in memory (AO1 = 3 marks)
+  - Evaluate theories or research studies into duration in memory (AO3 = 5 marks)
 
-Describe Rusbult's model (AO1 = 3 marks)
-Evaluate Rusbult's model — strengths only (AO3 = 5 marks)
-Compare the humanistic approach with the psychodynamic approach [8 marks]
+- **Outline Rusbult's model of romantic relationships. Explain one or more strength(s) of Rusbult's model [8 marks]**
+  - Describe Rusbult's model (AO1 = 3 marks)
+  - Evaluate Rusbult's model — strengths only (AO3 = 5 marks)
 
-Your knowledge of each approach will be demonstrated in your comparison (AO1 = 3 marks)
-Compare the similarities and differences (AO3 = 5 marks)
-Discuss Duck's phase model of relationship breakdown [8 marks]
+- **Compare the humanistic approach with the psychodynamic approach [8 marks]**
+  - Your knowledge of each approach will be demonstrated in your comparison (AO1 = 3 marks)
+  - Compare the similarities and differences (AO3 = 5 marks)
 
-Describe Duck's phase model (AO1 = 3 marks)
-Evaluate Duck's phase model (AO3 = 5 marks)
-How Much Should I Write?
-You will have around 10 minutes to write an 8-mark essay question, which includes planning time
-Aim to write around 200–250 words
-Remember that there are only 3 marks available for AO1
-Don't try to describe too many studies or explanations; instead, spend more time on well-explained evaluation (AO3)
-It is better to cover fewer studies, theories, or explanations but in greater detail — this demonstrates understanding
-Think quality over quantity!
-A question may ask you to explain one or more studies, explanations, strengths or limitations — it is fine to describe just one (in detail)
-There are 5 marks available for AO3 if no stem is presented — spend more time on evaluation than AO1
-Structure
-Paragraph	Content	AO
-1	Define/describe the theory or concept with key terminology	AO1
-2	Further explanation with a specific example from psychology	AO1
-3	PEEL: Strength (e.g., supporting research, real-world application)	AO3
-4	PEEL: Limitation (e.g., methodological issues, ethical problems, counterpoint)	AO3
-Worked Example
-Q. Discuss token economies as a method used in the management of schizophrenia. [8 marks]
+- **Discuss Duck's phase model of relationship breakdown [8 marks]**
+  - Describe Duck's phase model (AO1 = 3 marks)
+  - Evaluate Duck's phase model (AO3 = 5 marks)
 
-Model answer:
+### How Much Should I Write?
+
+- You will have around **10 minutes** to write an 8-mark essay question, which includes planning time
+- Aim to write around **200–250 words**
+- Remember that there are only **3 marks available for AO1**
+- Don't try to describe too many studies or explanations; instead, spend more time on **well-explained evaluation (AO3)**
+- It is better to cover fewer studies, theories, or explanations but in **greater detail** — this demonstrates understanding
+- **Think quality over quantity!**
+- A question may ask you to explain one or more studies, explanations, strengths or limitations — **it is fine to describe just one (in detail)**
+- There are **5 marks available for AO3** if no stem is presented — spend more time on evaluation than AO1
+
+### Structure (EXACTLY 4 paragraphs — NO introduction, NO conclusion)
+
+| Paragraph | Content | AO |
+|-----------|---------|-----|
+| 1 | Define/describe the theory or concept with key terminology | AO1 |
+| 2 | Further explanation with a specific example from psychology | AO1 |
+| 3 | PEEL: Strength (e.g., supporting research, real-world application) | AO3 |
+| 4 | PEEL: Limitation (e.g., methodological issues, ethical problems, counterpoint) | AO3 |
+
+> **CRITICAL: Start directly with AO1 paragraph 1. Do NOT write an introduction or conclusion — they earn ZERO marks.**
+
+### Worked Example
+
+**Q. Discuss token economies as a method used in the management of schizophrenia. [8 marks]**
+
+**Model answer:**
 
 A type of behavioural therapy founded on operant conditioning is token economy. It employs a system of rewards to modify the behaviour of individuals with schizophrenia (SZ), particularly those who have become institutionalised and have formed maladaptive behavioural patterns.
 
@@ -235,82 +312,104 @@ One strength of token economies is that the treatment improves the quality of li
 
 A limitation of psychological treatments for SZ, such as token economy, is that they can raise ethical issues. This is because patients with milder symptoms of SZ are more likely to be granted privileges and treats, whereas those with more severe symptoms that hinder them from engaging in desired behaviours are less likely to be granted these benefits. This is problematic because, in addition to their other symptoms, the most seriously ill patients experience discrimination, which has resulted in their decreased use within the psychiatric system.
 
-Word count: 235 — Level 4 response: 7–8 marks
+**Word count: 235 — Level 4 response: 7–8 marks**
 
-Examiner Commentary: This response is in the top band (Level 4) because it shows detailed knowledge and understanding of token economies used to manage schizophrenia. The essay follows a coherent structure, is focused on the question, and makes good use of key terms. The evaluation is effective as each strength and limitation is introduced, elaborated thoroughly and linked back to the question.
+**Examiner Commentary:**
+This response is in the top band (Level 4) because it shows detailed knowledge and understanding of token economies used to manage schizophrenia. The essay follows a coherent structure, is focused on the question, and makes good use of key terms. The evaluation is effective as each strength and limitation is introduced, elaborated thoroughly and linked back to the question.
 
-Step by step structure:
+**Step by step structure:**
+1. **Paragraph 1:** Token economy in the context of schizophrenia is explained in detail and includes key terms (AO1)
+2. **Paragraph 2:** The process of using token economy to manage schizophrenia is explained further and includes examples (AO1)
+3. **Paragraph 3:** An evaluation point is introduced, explained in detail and is linked back to the question on managing schizophrenia (AO3)
+4. **Paragraph 4:** A counter point is introduced, explained in detail and again linked back to the question (AO3)
 
-Paragraph 1: Token economy in the context of schizophrenia is explained in detail and includes key terms (AO1)
-Paragraph 2: The process of using token economy to manage schizophrenia is explained further and includes examples (AO1)
-Paragraph 3: An evaluation point is introduced, explained in detail and is linked back to the question on managing schizophrenia (AO3)
-Paragraph 4: A counter point is introduced, explained in detail and again linked back to the question (AO3)
-How to Improve 8-Mark Performance
-One way to boost your marks is to perfect your evaluation (AO3). Think quality over quantity; it is better to cover just one or two evaluation points in greater detail so that your points are effective. You can do this by:
+### How to Improve 8-Mark Performance
 
-Introducing the evaluation point
-Elaborating in the following ways: give an example, cite research evidence, draw a comparison, or discuss implications/applications to real-life
-Linking the point back to the question (what are the implications for the question?)
-Examiners say that students usually forget to include this important part when evaluating.
+One way to boost your marks is to **perfect your evaluation (AO3)**. Think quality over quantity; it is better to cover just **one or two evaluation points** in greater detail so that your points are effective. You can do this by:
 
-Useful lead-in phrases:
+1. **Introducing** the evaluation point
+2. **Elaborating** in the following ways: give an example, cite research evidence, draw a comparison, or discuss implications/applications to real-life
+3. **Linking** the point back to the question (what are the implications for the question?)
 
-A strength/limitation is...
-On the other hand...
-Furthermore...
-However...
-In contrast...
-This shows that...
-This suggests that...
-This implies that...
-Worked Example of an Effective Evaluation Point:
+> Examiners say that students usually **forget to include this important part** when evaluating.
 
-Introduce the evaluation point: An advantage of Harlow's research is that it has practical relevance
+**Useful lead-in phrases:**
+- A strength/limitation is...
+- On the other hand...
+- Furthermore...
+- However...
+- In contrast...
+- This shows that...
+- This suggests that...
+- This implies that...
 
-Elaborate: His discoveries, such as the long-term social effects of maternal deprivation, have been applied to real-world situations and have assisted social workers in identifying risk factors in child neglect and abuse so they can intervene to prevent it
+**Worked Example of an Effective Evaluation Point:**
 
-Link back to the question: This is a strength as it shows how animal studies are useful in understanding human attachment behaviour
+> *Introduce the evaluation point:*
+> An advantage of Harlow's research is that it has practical relevance
+>
+> *Elaborate:*
+> His discoveries, such as the long-term social effects of maternal deprivation, have been applied to real-world situations and have assisted social workers in identifying risk factors in child neglect and abuse so they can intervene to prevent it
+>
+> *Link back to the question:*
+> This is a strength as it shows how animal studies are useful in understanding human attachment behaviour
 
-Commentary: This is an effective evaluation point as the strength is introduced, explained well (real-life applications discussed), and the final sentence links back to the question.
+**Commentary:** This is an effective evaluation point as the strength is introduced, explained well (real-life applications discussed), and the final sentence links back to the question.
 
-9. 8-Mark Essays (With Application / Stem)
-Overview
-8-mark application essay questions can appear in Papers 1, 2 and 3, and they assess:
+---
 
-AO1 — knowledge and understanding of scientific ideas, processes, techniques and procedures
-AO2 — application of knowledge and understanding
-AO3 — critical analysis and evaluation; making judgements and drawing conclusions
-Mark Split
-AO1 = 3, AO2 = 2, AO3 = 3
+## 9. 8-Mark Essays (With Application / Stem)
+
+### Overview
+
+8-mark application essay questions can appear in **Papers 1, 2 and 3**, and they assess:
+
+- **AO1** — knowledge and understanding of scientific ideas, processes, techniques and procedures
+- **AO2** — application of knowledge and understanding
+- **AO3** — critical analysis and evaluation; making judgements and drawing conclusions
+
+### Mark Split
+
+**AO1 = 3, AO2 = 2, AO3 = 3**
 
 When a question is presented with a scenario or stem, you must make links between the theory in the question and the stem. A stem can be a paragraph, a conversation, or simply a sentence.
 
-If you do not make reference to the stem, you will not have fully answered the question and will not receive maximum marks.
+**If you do not make reference to the stem, you will not have fully answered the question and will not receive maximum marks.**
 
-How Much Should I Write?
-Around 10 minutes, which includes planning time
-Aim for 200–250 words
-Only 3 marks for AO1 — don't describe too many studies
-2 marks for AO2 — you must spend less time on AO3 so that you can effectively engage with the stem
-It is better to cover fewer studies/theories but in greater detail
-Think quality over quantity!
-Structure
-Paragraph	Content	AO
-1	Briefly outline the theory/model (first element)	AO1
-2	Continue outlining the theory with examples and key terms	AO1
-3	Apply the theory to the stem — explain WHY the behaviour in the scenario fits the theory (do NOT just quote the stem)	AO2
-4	PEEL: Evaluation point with research evidence, linked back to the question	AO3
-Critical Rule for AO2 Application
-Do NOT just repeat the stem. You must create an explanatory link — explain WHY the behaviour/situation in the stem fits the theory. E.g., "The activating event was dropping change at the till, which triggered the irrational belief that 'everybody knew I was useless,' demonstrating Ellis's concept of musturbation."
+### How Much Should I Write?
 
-Worked Example
-Q. Patients with depression were asked to keep a daily diary of their experiences as part of their therapy. Two researchers analysed the same extracts from the diaries using content analysis.
+- Around **10 minutes**, which includes planning time
+- Aim for **200–250 words**
+- Only **3 marks for AO1** — don't describe too many studies
+- **2 marks for AO2** — you must spend less time on AO3 so that you can effectively engage with the stem
+- It is better to cover fewer studies/theories but in **greater detail**
+- **Think quality over quantity!**
 
-One of the diaries included the following extract: "Managed to drag myself out of the house yesterday but wished I hadn't. Went to the shop but dropped my change at the till. Everybody knew I was useless. Why can I not do anything right? No one else I know does such stupid things."
+### Structure (EXACTLY 4 paragraphs — NO introduction, NO conclusion)
 
-Ellis proposed an ABC model of depression. Outline and evaluate the ABC model of depression. Refer to this diary extract in your answer. [8 marks]
+| Paragraph | Content | AO |
+|-----------|---------|-----|
+| 1 | Briefly outline the theory/model (first element) | AO1 |
+| 2 | Continue outlining the theory with examples and key terms | AO1 |
+| 3 | Apply the theory to the stem — explain WHY the behaviour in the scenario fits the theory (do NOT just quote the stem) | AO2 |
+| 4 | PEEL: Evaluation point with research evidence, linked back to the question | AO3 |
 
-Model answer:
+> **CRITICAL: Start directly with AO1 paragraph 1. Do NOT write an introduction or conclusion — they earn ZERO marks.**
+
+### Critical Rule for AO2 Application
+
+> **Do NOT just repeat the stem.** You must create an **explanatory link** — explain WHY the behaviour/situation in the stem fits the theory. E.g., "The activating event was dropping change at the till, which triggered the irrational belief that 'everybody knew I was useless,' demonstrating Ellis's concept of musturbation."
+
+### Worked Example
+
+**Q.** *Patients with depression were asked to keep a daily diary of their experiences as part of their therapy. Two researchers analysed the same extracts from the diaries using content analysis.*
+
+*One of the diaries included the following extract:*
+*"Managed to drag myself out of the house yesterday but wished I hadn't. Went to the shop but dropped my change at the till. Everybody knew I was useless. Why can I not do anything right? No one else I know does such stupid things."*
+
+**Ellis proposed an ABC model of depression. Outline and evaluate the ABC model of depression. Refer to this diary extract in your answer. [8 marks]**
+
+**Model answer:**
 
 The ABC model explains how irrational thoughts affect our behaviour and emotions. Ellis (1962) argued that depression is caused by irrational thoughts, which are triggered by negative external events. This is known as the activating event (A).
 
@@ -320,143 +419,178 @@ In the diary entry above, the activating event was the individual dropping chang
 
 A strength of Ellis' ABC model of depression is that it has practical applications as it has led to successful therapy, i.e., REBT. The idea that, by identifying and disputing irrational beliefs, a person can reduce their depression is supported by research evidence, such as Lipskey et al. (1980), who found a correlation between changes in beliefs and changes in emotional distress. This in turn supports the basic theory because it suggests that the irrational beliefs played a role in the development of depression.
 
-Word count: 225 — Level 4 response: 7–8 marks
+**Word count: 225 — Level 4 response: 7–8 marks**
 
-Examiner Commentary: Top band. Detailed AO1 with key terms. Application is effective — diary content is linked to theory (not just quoted). Evaluation elaborated with research findings and linked back.
+**Examiner Commentary:**
+Top band. Detailed AO1 with key terms. Application is effective — diary content is linked to theory (not just quoted). Evaluation elaborated with research findings and linked back.
 
-Step by step structure:
+**Step by step structure:**
+1. **Paragraph 1:** The 'A' element of the ABC model is briefly explained (AO1)
+2. **Paragraph 2:** The 'B' and 'C' elements are explained with examples and key terms (AO1)
+3. **Paragraph 3:** Explanatory links made between each part of the ABC model and the content of the stem (AO2)
+4. **Paragraph 4:** An evaluation point is introduced, explained in detail using research findings and linked back to the question (AO3)
 
-Paragraph 1: The 'A' element of the ABC model is briefly explained (AO1)
-Paragraph 2: The 'B' and 'C' elements are explained with examples and key terms (AO1)
-Paragraph 3: Explanatory links made between each part of the ABC model and the content of the stem (AO2)
-Paragraph 4: An evaluation point is introduced, explained in detail using research findings and linked back to the question (AO3)
-10. 12-Mark Research Design Questions
-Overview
-Design a study questions typically appear in the research methods section of Paper 2, and they assess your ability to:
+---
 
-Apply knowledge and understanding of scientific ideas, processes, techniques and procedures in a practical context (AO2)
-Analyse, interpret and evaluate scientific information, ideas and evidence, including in relation to issues, to develop and refine practical design and procedures (AO3)
+## 10. 12-Mark Research Design Questions
+
+### Overview
+
+Design a study questions typically appear in the research methods section of **Paper 2**, and they assess your ability to:
+
+- Apply knowledge and understanding of scientific ideas, processes, techniques and procedures in a practical context (**AO2**)
+- Analyse, interpret and evaluate scientific information, ideas and evidence, including in relation to issues, to develop and refine practical design and procedures (**AO3**)
+
 These questions test your overall knowledge and understanding of research methods, as they require you to design a practical study and justify your choices.
 
-Mark Split
+### Mark Split
+
 Varies — typically all three AOs tested (AO1/AO2/AO3 mixed)
 
-Common Prompts & What to Include
-Prompt	What to Write
-Task for participants	Describe the specific task, duration, instructions given, how standardisation is ensured
-Behavioural categories & recording	List specific observable behaviours, describe the recording method (tally chart, behaviour checklist), state sampling method (event/time sampling)
-Reliability	Describe inter-observer reliability — two observers independently record, correlate their tallies, +0.8 = high reliability
-Ethical issues	Informed consent (consent form with details), right to withdraw (at any time, no penalty), confidentiality (data anonymised), debrief
-Sampling method	Describe how and why (e.g., opportunity, random, volunteer)
-Variables	Identify IV, DV, and how they are operationalised
-Controls	Describe standardised procedures, extraneous variables, demand characteristics
-Worked Example
-Q. The psychologist focused on fluency in spoken communication in her study. Other research has investigated sex differences in non-verbal behaviours such as body language and gestures.
+### Common Prompts & What to Include
 
-Design an observation study to investigate sex differences in non-verbal behaviour of males and females when they are giving a presentation to an audience. [12 marks]
+| Prompt | What to Write |
+|--------|---------------|
+| **Task for participants** | Describe the specific task, duration, instructions given, how standardisation is ensured |
+| **Behavioural categories & recording** | List specific observable behaviours, describe the recording method (tally chart, behaviour checklist), state sampling method (event/time sampling) |
+| **Reliability** | Describe inter-observer reliability — two observers independently record, correlate their tallies, +0.8 = high reliability |
+| **Ethical issues** | Informed consent (consent form with details), right to withdraw (at any time, no penalty), confidentiality (data anonymised), debrief |
+| **Sampling method** | Describe how and why (e.g., opportunity, random, volunteer) |
+| **Variables** | Identify IV, DV, and how they are operationalised |
+| **Controls** | Describe standardised procedures, extraneous variables, demand characteristics |
 
-In your answer, you should provide details of: the task for the participants; the behavioural categories to be used and how the data will be recorded; how reliability of the data collection might be established; ethical issues to be considered.
+### Worked Example
 
-Model answer:
+**Q.** *The psychologist focused on fluency in spoken communication in her study. Other research has investigated sex differences in non-verbal behaviours such as body language and gestures.*
 
-Task for participants:
+**Design an observation study to investigate sex differences in non-verbal behaviour of males and females when they are giving a presentation to an audience. [12 marks]**
 
-Ask participants to give a presentation to 10 members of an audience on a hobby they participate in
-They will be asked to plan and deliver a presentation called "My Hobby" lasting 5 minutes
-They can only use hand-held presentation cards as prompts
-They would all be given the same instructions, delivered in the same way to ensure standardisation
-Behavioural categories and recording of data:
+*In your answer, you should provide details of: the task for the participants; the behavioural categories to be used and how the data will be recorded; how reliability of the data collection might be established; ethical issues to be considered.*
 
-Behavioural categories would cover non-verbal behaviours such as making eye contact with the audience, looking away from the audience, speech hesitations, arms folded, smiling, and touching their face and hair
-These observed categories would be recorded on a behaviour checklist drawn up beforehand by at least 2 observers
-Event sampling would be used by tallying the non-verbal behaviours that occur throughout each 5-minute presentation
-Reliability of data collection:
+**Model answer:**
 
-Prior to the research, I would, with another observer, decide which specific behavioural categories to include and the method of categorising non-verbal communication behaviours so that subjective interpretation of behaviour was not possible
-We would observe the presentation of each participant and then compare our tallies, which would then be correlated to determine whether we had found a positive correlation
-A correlation of +0.8 or above would indicate high inter-observer reliability
-Ethical issues to be considered:
+**Task for participants:**
+- Ask participants to give a presentation to 10 members of an audience on a hobby they participate in
+- They will be asked to plan and deliver a presentation called "My Hobby" lasting 5 minutes
+- They can only use hand-held presentation cards as prompts
+- They would all be given the same instructions, delivered in the same way to ensure standardisation
 
-One ethical issue I would deal with would be informed consent, which would have to be obtained from the participants prior to the study
-I would send a consent form detailing the aim and procedure of the study and the participant's role in it, including how long they would be taking part for
-The consent form would inform the participants of their right to withdraw themselves and their data from the study at any time with the reassurance that their details would be kept confidential
-Word count: 314 — Level 4: 10–12 marks
+**Behavioural categories and recording of data:**
+- Behavioural categories would cover non-verbal behaviours such as making eye contact with the audience, looking away from the audience, speech hesitations, arms folded, smiling, and touching their face and hair
+- These observed categories would be recorded on a behaviour checklist drawn up beforehand by at least 2 observers
+- Event sampling would be used by tallying the non-verbal behaviours that occur throughout each 5-minute presentation
 
-Examiner Commentary: This response is in the top band (Level 4) because it provides a clear, practical, well-justified design for an observation into non-verbal communication. Effective use of key terms is evident (e.g., the link to inter-rater reliability), which shows a confident grasp of topics across the psychology specification. The essay follows a logical structure; it answers the question requirements as all four elements of the question are addressed.
+**Reliability of data collection:**
+- Prior to the research, I would, with another observer, decide which specific behavioural categories to include and the method of categorising non-verbal communication behaviours so that subjective interpretation of behaviour was not possible
+- We would observe the presentation of each participant and then compare our tallies, which would then be correlated to determine whether we had found a positive correlation
+- A correlation of +0.8 or above would indicate high inter-observer reliability
 
-How to Improve on Design Questions
-Carry out practical research (mini studies or classroom experiments) to gain a concrete grasp of how to conduct research
-Practice design questions — think, "If I had to measure aggression in a playground, how specifically would I do it?"
-Use key terms appropriately — when using a research method term, justify how and why it applies (e.g., don't just write "I would use stratified sampling" but add "...to ensure the sample reflects the class's proportions of male/female students")
-Give practical details, not just generic justifications — e.g., if you say "time sampling," add the precise interval (e.g., "I will record each social interaction every 30 seconds for 10 minutes")
-Develop a structured approach — use subheadings or bullet points matching the question prompts
-Data Handling Knowledge
+**Ethical issues to be considered:**
+- One ethical issue I would deal with would be informed consent, which would have to be obtained from the participants prior to the study
+- I would send a consent form detailing the aim and procedure of the study and the participant's role in it, including how long they would be taking part for
+- The consent form would inform the participants of their right to withdraw themselves and their data from the study at any time with the reassurance that their details would be kept confidential
+
+**Word count: 314 — Level 4: 10–12 marks**
+
+**Examiner Commentary:**
+This response is in the top band (Level 4) because it provides a clear, practical, well-justified design for an observation into non-verbal communication. Effective use of key terms is evident (e.g., the link to inter-rater reliability), which shows a confident grasp of topics across the psychology specification. The essay follows a logical structure; it answers the question requirements as all four elements of the question are addressed.
+
+### How to Improve on Design Questions
+
+- **Carry out practical research** (mini studies or classroom experiments) to gain a concrete grasp of how to conduct research
+- **Practice design questions** — think, "If I had to measure aggression in a playground, how specifically would I do it?"
+- **Use key terms appropriately** — when using a research method term, justify how and why it applies (e.g., don't just write "I would use stratified sampling" but add "...to ensure the sample reflects the class's proportions of male/female students")
+- **Give practical details, not just generic justifications** — e.g., if you say "time sampling," add the precise interval (e.g., "I will record each social interaction every 30 seconds for 10 minutes")
+- **Develop a structured approach** — use subheadings or bullet points matching the question prompts
+
+### Data Handling Knowledge
+
 You could be asked to provide details of data handling and analysis. Know these terms:
 
-Descriptive statistics: measures of central tendency and measures of dispersion
-Measures of central tendency: mean, median, mode
-Measures of dispersion: range, standard deviation
-Data presentation: bar chart, scattergram, histogram
-Inferential statistics: the different statistical tests
-11. 16-Mark Essays (No Application)
-Overview
-16-mark questions appear as extended writing questions in Papers 1, 2 and 3, and they assess your ability to:
+- **Descriptive statistics:** measures of central tendency and measures of dispersion
+- **Measures of central tendency:** mean, median, mode
+- **Measures of dispersion:** range, standard deviation
+- **Data presentation:** bar chart, scattergram, histogram
+- **Inferential statistics:** the different statistical tests
 
-Demonstrate knowledge and understanding of scientific ideas, processes, techniques and procedures (AO1)
-Critically analyse and evaluate in a well-constructed argument (AO3)
-Make judgements and draw conclusions (AO3)
-Mark Split
-AO1 = 6, AO3 = 10
+---
 
-The 'outline' part of the question assesses AO1 = 6 marks
-The 'evaluate' part of the question assesses AO3 = 10 marks
-Types of Essay Questions
-Command Word	What It Means
-'Outline/describe and evaluate'	Present key points about the topic and their strengths and weaknesses
-'Compare'	Consider both similarities and differences
-'Discuss'	Assessed the same way as 'outline and evaluate' but invites broader commentary (AO3)
+## 11. 16-Mark Essays (No Application)
+
+### Overview
+
+16-mark questions appear as extended writing questions in **Papers 1, 2 and 3**, and they assess your ability to:
+
+- Demonstrate knowledge and understanding of scientific ideas, processes, techniques and procedures (**AO1**)
+- Critically analyse and evaluate in a well-constructed argument (**AO3**)
+- Make judgements and draw conclusions (**AO3**)
+
+### Mark Split
+
+**AO1 = 6, AO3 = 10**
+
+- The 'outline' part of the question assesses **AO1 = 6 marks**
+- The 'evaluate' part of the question assesses **AO3 = 10 marks**
+
+### Types of Essay Questions
+
+| Command Word | What It Means |
+|-------------|---------------|
+| **'Outline/describe and evaluate'** | Present key points about the topic and their strengths and weaknesses |
+| **'Compare'** | Consider both similarities and differences |
+| **'Discuss'** | Assessed the same way as 'outline and evaluate' but invites broader commentary (AO3) |
+
 For a 'discuss' question, commentary would consider:
+- The merits of both sides of a debate
+- The overall contributions to psychology made by each side
+- Comparisons with other debates, approaches, or explanations
 
-The merits of both sides of a debate
-The overall contributions to psychology made by each side
-Comparisons with other debates, approaches, or explanations
-Examples of Typical 16-Mark Essay Questions
-Describe and evaluate research related to minority influence [16 marks]
+### Examples of Typical 16-Mark Essay Questions
 
-Describe theories or research studies on minority influence (AO1 = 6 marks)
-Evaluate the theories or research studies (AO3 = 10 marks)
-Outline and evaluate two animal studies of attachment [16 marks]
+- **Describe and evaluate research related to minority influence [16 marks]**
+  - Describe theories or research studies on minority influence (AO1 = 6 marks)
+  - Evaluate the theories or research studies (AO3 = 10 marks)
 
-Describe two animal studies of attachment (AO1 = 6 marks)
-Evaluate animal studies of attachment (AO3 = 10 marks)
-Outline the behaviourist approach. Compare the behaviourist approach with the biological approach [16 marks]
+- **Outline and evaluate two animal studies of attachment [16 marks]**
+  - Describe two animal studies of attachment (AO1 = 6 marks)
+  - Evaluate animal studies of attachment (AO3 = 10 marks)
 
-Describe the behavioural approach (AO1 = 6 marks)
-Compare similarities and differences (AO3 = 10 marks)
-Discuss one or more definitions of abnormality [16 marks]
+- **Outline the behaviourist approach. Compare the behaviourist approach with the biological approach [16 marks]**
+  - Describe the behavioural approach (AO1 = 6 marks)
+  - Compare similarities and differences (AO3 = 10 marks)
 
-Describe one or more definitions (AO1 = 6 marks)
-Evaluate one or more definitions (AO3 = 10 marks)
-How Much Should I Write?
-You will have around 20 minutes to write, which includes planning time
-Aim to write around 450–500 words
-Practice writing in timed conditions before exams
-Only 6 marks for AO1 — don't try to describe too many studies or explanations
-Spend more time on well-explained evaluation (AO3)
-It is better to cover fewer studies/theories but in greater detail — this demonstrates depth of understanding
-Think quality over quantity!
-A question may ask you to describe two studies/explanations — it is fine to describe one in more detail than the other
-There are 10 marks for AO3 if no stem — spend more time on evaluation than on AO1
-Structure
-Section	Paragraphs	Content	AO	Time
-Description	1–3	Describe theory/study in detail — procedure, findings, conclusions, key terms	AO1	3–4 min
-Evaluation	4–7	3–4 PEEL paragraphs — strengths, limitations, counterpoints, research evidence	AO3	12–14 min
+- **Discuss one or more definitions of abnormality [16 marks]**
+  - Describe one or more definitions (AO1 = 6 marks)
+  - Evaluate one or more definitions (AO3 = 10 marks)
+
+### How Much Should I Write?
+
+- You will have around **20 minutes** to write, which includes planning time
+- Aim to write around **450–500 words**
+- Practice writing in timed conditions before exams
+- Only **6 marks for AO1** — don't try to describe too many studies or explanations
+- Spend more time on **well-explained evaluation (AO3)**
+- It is better to cover fewer studies/theories but in **greater detail** — this demonstrates depth of understanding
+- **Think quality over quantity!**
+- A question may ask you to describe two studies/explanations — it is fine to describe one in more detail than the other
+- There are **10 marks for AO3** if no stem — spend more time on evaluation than on AO1
+
+### Structure (EXACTLY 6 paragraphs — NO introduction, NO conclusion)
+
+| Section | Paragraphs | Content | AO | Time |
+|---------|-----------|---------|-----|------|
+| Description | 1–3 | Describe theory/study in detail — procedure, findings, conclusions, key terms | AO1 | 3–4 min |
+| Evaluation | 4–6 | 3 PEEL paragraphs — strengths, limitations, counterpoints, research evidence | AO3 | 12–14 min |
+
 Timing: ~6 marks AO1 in ~half a page, ~10 marks AO3 in ~1–1.5 pages
 
-Worked Example
-Q. Outline and evaluate research (theories and/or studies) into the effects of misleading information on eyewitness testimony. [16 marks]
+> **CRITICAL: Do NOT write more than 6 paragraphs. Do NOT add an introduction or conclusion. Start directly with the first AO1 paragraph.**
 
-Model answer:
+### Worked Example
+
+**Q. Outline and evaluate research (theories and/or studies) into the effects of misleading information on eyewitness testimony. [16 marks]**
+
+**Model answer:**
 
 Leading questions' impact on eyewitness testimony's (EWT) accuracy was examined by Loftus & Palmer (1974). After showing film clips of car accidents to American students, they questioned them about the incident. Participants were asked to describe how fast the cars were going when they hit each other. The verb "hit" implies the speed at which the car was travelling, so this was a leading question. Each of the five participant groups received a distinct verb in the crucial question, such as contacted, bumped, collided, or smashed.
 
@@ -470,76 +604,94 @@ Individual differences are a further limitation of research on false information
 
 On the other hand, one of the study's strengths is that it has significant real-world implications, as inaccurate EWT can have grave consequences. As mistaken eyewitness identification is the biggest single factor leading to the conviction of innocent people, Loftus (1975) believes that leading questions can have such a distorting effect on memory that police officers should be careful about how they phrase their questions when interviewing eyewitnesses (Wells & Olson, 2003). This demonstrates how Loftus & Palmer's work can be applied in real life to prevent miscarriages of justice.
 
-Word count: 486 — Level 4 response: 13–16 marks
+**Word count: 486 — Level 4 response: 13–16 marks**
 
-Examiner Commentary: This response is in the top band (Level 4) because there is detailed knowledge and understanding of how misleading information can affect the accuracy of EWT. Effective use of key terms is evident in the description, which is selective as it includes just one research study on leading questions and one on post-event discussion. The essay follows a coherent structure and is focused on the question rather than discussing all factors affecting EWT in general. The evaluation is effective as the strengths and limitations are clearly introduced, elaborated thoroughly and they clearly explain why they support or critique research into the effects of misleading information on eyewitness testimony.
+**Examiner Commentary:**
+This response is in the top band (Level 4) because there is detailed knowledge and understanding of how misleading information can affect the accuracy of EWT. Effective use of key terms is evident in the description, which is selective as it includes just one research study on leading questions and one on post-event discussion. The essay follows a coherent structure and is focused on the question rather than discussing all factors affecting EWT in general. The evaluation is effective as the strengths and limitations are clearly introduced, elaborated thoroughly and they clearly explain why they support or critique research into the effects of misleading information on eyewitness testimony.
 
-Step by step structure:
+**Step by step structure:**
+1. **Paragraph 1:** One research study on misleading information is explained in detail and includes key terms (AO1)
+2. **Paragraph 2:** Accurate detail of the findings of Loftus & Palmer's study with a link to the question (AO1)
+3. **Paragraph 3:** Another research study on misleading information described in detail, with a link to the question (AO1)
+4. **Paragraph 4:** An evaluation point is introduced and elaborated using a contextualised (rather than generic) research methods criticism. This is then linked back to the question (AO3)
+5. **Paragraph 5:** A second evaluation point is introduced, explained further and then linked back to the question (AO3)
+6. **Paragraph 6:** A counterargument is introduced, explained in detail and linked back to the question (AO3)
 
-Paragraph 1: One research study on misleading information is explained in detail and includes key terms (AO1)
-Paragraph 2: Accurate detail of the findings of Loftus & Palmer's study with a link to the question (AO1)
-Paragraph 3: Another research study on misleading information described in detail, with a link to the question (AO1)
-Paragraph 4: An evaluation point is introduced and elaborated using a contextualised (rather than generic) research methods criticism. This is then linked back to the question (AO3)
-Paragraph 5: A second evaluation point is introduced, explained further and then linked back to the question (AO3)
-Paragraph 6: A counterargument is introduced, explained in detail and linked back to the question (AO3)
-How to Improve 16-Mark Performance
-One way to boost your marks is to perfect your evaluation (AO3). Think quality over quantity; it is better to cover fewer evaluation points in greater detail so that your points are effective:
+### How to Improve 16-Mark Performance
 
-Introduce the evaluation point
-Elaborate by: giving an example, citing research evidence, drawing a comparison, or discussing implications/applications to real-life
-Link the point back to the question (what are the implications for the question?)
-Examiners say that students usually forget to include this important part when evaluating.
+One way to boost your marks is to **perfect your evaluation (AO3)**. Think quality over quantity; it is better to cover fewer evaluation points in greater detail so that your points are effective:
 
-Useful lead-in phrases:
+1. **Introduce** the evaluation point
+2. **Elaborate** by: giving an example, citing research evidence, drawing a comparison, or discussing implications/applications to real-life
+3. **Link** the point back to the question (what are the implications for the question?)
 
-A strength/limitation is...
-On the other hand...
-Furthermore...
-However...
-In contrast...
-This shows that...
-This suggests that...
-This implies that...
-Worked Example of an Effective Evaluation Point (Biological Approach):
+> Examiners say that students usually **forget to include this important part** when evaluating.
 
-Introduce: A strength of the biological approach is that it has practical applications in treatment
+**Useful lead-in phrases:**
+- A strength/limitation is...
+- On the other hand...
+- Furthermore...
+- However...
+- In contrast...
+- This shows that...
+- This suggests that...
+- This implies that...
 
-Elaborate: A greater understanding of how imbalances of neurotransmitters in the brain may cause disorders has led to effective treatments. For example, depression has been linked to low levels of serotonin, and as a result, SSRIs are commonly used to treat depression as they increase serotonin levels.
+**Worked Example of an Effective Evaluation Point (Biological Approach):**
 
-Link back to the question: This is a strength, as it means that the biological approach doesn't just theorise about causes of behaviour but also provides effective, practical treatments for mental disorders such as depression.
+> *Introduce:*
+> A strength of the biological approach is that it has practical applications in treatment
+>
+> *Elaborate:*
+> A greater understanding of how imbalances of neurotransmitters in the brain may cause disorders has led to effective treatments. For example, depression has been linked to low levels of serotonin, and as a result, SSRIs are commonly used to treat depression as they increase serotonin levels.
+>
+> *Link back to the question:*
+> This is a strength, as it means that the biological approach doesn't just theorise about causes of behaviour but also provides effective, practical treatments for mental disorders such as depression.
 
-Commentary: This is an effective evaluation point as the strength is introduced, it is explained well as a specific example has been provided. The final sentence links back to the question as it explains why this is a strength of the biological approach.
+**Commentary:** This is an effective evaluation point as the strength is introduced, it is explained well as a specific example has been provided. The final sentence links back to the question as it explains why this is a strength of the biological approach.
 
-12. 16-Mark Essays (With Application / Stem)
-Mark Split
-AO1 = 6, AO2 = 4, AO3 = 6
+---
 
-How Much Should I Write?
-Around 20 minutes, which includes planning time
-Aim for 450–500 words
-Practice writing in timed conditions
-Only 6 marks for AO1 — don't describe too many studies
-4 marks for AO2 — you must spend less time on AO3 so that you can effectively engage with the stem
-It is better to cover fewer studies/theories but in greater detail
-Think quality over quantity!
-A question may ask you to describe two studies/explanations — it is fine to describe one in more detail than the other
-Structure
-#	Content	AO
-1	Describe explanation/theory 1 in detail with key terms	AO1
-2	Apply explanation 1 to the stem — create explanatory links	AO2
-3	PEEL evaluation — strength with research evidence	AO3
-4	PEEL evaluation — limitation / counterargument	AO3
-5	Describe explanation/theory 2 with key terms. Apply to stem	AO1 + AO2
-6	PEEL evaluation of explanation 2	AO3
-7	(Optional) Describe explanation 3 briefly	AO1
-8	Apply explanation 3 to stem	AO2
-9	PEEL evaluation of explanation 3	AO3
-Worked Example
-Q. Jay has schizophrenia. His speech is rapid and confused, and he changes constantly from one idea to something completely different. Jay's father was treated for mental health problems when he was younger. Jay's mother worries excessively about Jay. She often criticises his behaviour and tells him what to do. Jay's doctor prescribes medication, which seems to reduce his symptoms.
+## 12. 16-Mark Essays (With Application / Stem)
 
-Discuss one or more explanations for schizophrenia. Refer to Jay in your answer. [16 marks]
+### Mark Split
 
-Model answer:
+**AO1 = 6, AO2 = 4, AO3 = 6**
+
+### How Much Should I Write?
+
+- Around **20 minutes**, which includes planning time
+- Aim for **450–500 words**
+- Practice writing in timed conditions
+- Only **6 marks for AO1** — don't describe too many studies
+- **4 marks for AO2** — you must spend less time on AO3 so that you can effectively engage with the stem
+- It is better to cover fewer studies/theories but in **greater detail**
+- **Think quality over quantity!**
+- A question may ask you to describe two studies/explanations — it is fine to describe one in more detail than the other
+
+### Structure (6–9 paragraphs — NO introduction, NO conclusion)
+
+| # | Content | AO |
+|---|---------|-----|
+| 1 | Describe explanation/theory 1 in detail with key terms | AO1 |
+| 2 | Apply explanation 1 to the stem — create explanatory links | AO2 |
+| 3 | PEEL evaluation — strength with research evidence | AO3 |
+| 4 | PEEL evaluation — limitation / counterargument | AO3 |
+| 5 | Describe explanation/theory 2 with key terms. Apply to stem | AO1 + AO2 |
+| 6 | PEEL evaluation of explanation 2 | AO3 |
+| 7 | (Optional) Describe explanation 3 briefly | AO1 |
+| 8 | Apply explanation 3 to stem | AO2 |
+| 9 | PEEL evaluation of explanation 3 | AO3 |
+
+> **CRITICAL: Do NOT write more than 9 paragraphs. Do NOT add an introduction or conclusion. Start directly with AO1 paragraph 1.**
+
+### Worked Example
+
+**Q.** *Jay has schizophrenia. His speech is rapid and confused, and he changes constantly from one idea to something completely different. Jay's father was treated for mental health problems when he was younger. Jay's mother worries excessively about Jay. She often criticises his behaviour and tells him what to do. Jay's doctor prescribes medication, which seems to reduce his symptoms.*
+
+**Discuss one or more explanations for schizophrenia. Refer to Jay in your answer. [16 marks]**
+
+**Model answer:**
 
 One explanation for schizophrenia (SZ) is that it is biological as it runs in families, suggesting a genetic link. The greater the genetic similarity between family members, the greater the likelihood of them developing SZ. For example, twin studies show a higher concordance rate for SZ in MZs (who share 100% of their genes) than DZs (who share 50% of their genes). There is also a link between first-degree relatives (such as parents and their children who share 50% of their genes) and shared risk of SZ.
 
@@ -559,59 +711,68 @@ DBT may be a risk factor in the development of Jay's SZ as she alternates betwee
 
 A weakness of the family dysfunction explanation is that there is little evidence to support the DBT and such explanations have led to parent blaming. This is a weakness because not only have parents had to observe their child's declining mental health, but they have experienced trauma by being blamed for the condition. Thus, such explanations are no longer tolerated by parents.
 
-Word count: 510 — Level 4 response: 13–16 marks
+**Word count: 510 — Level 4 response: 13–16 marks**
 
-Examiner Commentary: This response is in the top band (Level 4) because there is detailed knowledge and understanding of one or more explanations for schizophrenia, explicitly applied to the question stem/scenario. The application is effective as Jay's experiences are not simply repeated in the essay but are linked to the explanations of schizophrenia. The essay follows a coherent structure, is focused on the question, and makes good use of key terms. The evaluation is effective as the strengths and limitations are clearly introduced, elaborated thoroughly and they clearly explain why they support or critique the explanations for schizophrenia.
+**Examiner Commentary:**
+This response is in the top band (Level 4) because there is detailed knowledge and understanding of one or more explanations for schizophrenia, explicitly applied to the question stem/scenario. The application is effective as Jay's experiences are not simply repeated in the essay but are linked to the explanations of schizophrenia. The essay follows a coherent structure, is focused on the question, and makes good use of key terms. The evaluation is effective as the strengths and limitations are clearly introduced, elaborated thoroughly and they clearly explain why they support or critique the explanations for schizophrenia.
 
-Step by step structure:
+**Step by step structure:**
+1. **Paragraph 1:** One biological explanation for schizophrenia is explained in detail and includes key terms (AO1)
+2. **Paragraph 2:** Explanatory links made between the genetic explanation of SZ and the content of the stem (AO2)
+3. **Paragraph 3:** An evaluation point is introduced, elaborated using research evidence to support and linked back to the question (AO3)
+4. **Paragraph 4:** A counter argument is introduced, explained and linked back to the question (AO3)
+5. **Paragraph 5:** A second explanation of schizophrenia shows strong knowledge as it is detailed and includes key terms (AO1). Explanatory links made between the dopamine hypothesis and the content of the stem (AO2)
+6. **Paragraph 6:** An evaluation point is introduced, elaborated using research evidence to support and linked back to the question (AO3)
+7. **Paragraph 7:** A third explanation of schizophrenia is described in less depth than the genetic explanation (AO1)
+8. **Paragraph 8:** Explanatory links made between family dysfunction and the content of the stem (AO2)
+9. **Paragraph 9:** An evaluation point is introduced, explained in detail and linked back to the question (AO3)
 
-Paragraph 1: One biological explanation for schizophrenia is explained in detail and includes key terms (AO1)
-Paragraph 2: Explanatory links made between the genetic explanation of SZ and the content of the stem (AO2)
-Paragraph 3: An evaluation point is introduced, elaborated using research evidence to support and linked back to the question (AO3)
-Paragraph 4: A counter argument is introduced, explained and linked back to the question (AO3)
-Paragraph 5: A second explanation of schizophrenia shows strong knowledge as it is detailed and includes key terms (AO1). Explanatory links made between the dopamine hypothesis and the content of the stem (AO2)
-Paragraph 6: An evaluation point is introduced, elaborated using research evidence to support and linked back to the question (AO3)
-Paragraph 7: A third explanation of schizophrenia is described in less depth than the genetic explanation (AO1)
-Paragraph 8: Explanatory links made between family dysfunction and the content of the stem (AO2)
-Paragraph 9: An evaluation point is introduced, explained in detail and linked back to the question (AO3)
-13. Issues & Debates Questions
-Overview
-The Issues and Debates section of Paper 3 assesses your understanding of the broader conceptual and ethical frameworks that underpin psychological research.
+---
+
+## 13. Issues & Debates Questions
+
+### Overview
+
+The Issues and Debates section of **Paper 3** assesses your understanding of the broader conceptual and ethical frameworks that underpin psychological research.
 
 You could be asked short-answer or extended-writing questions on any of the following:
+- Gender bias and culture bias
+- Ethical implications of socially sensitive research
+- Free will vs. determinism
+- Nature vs. nurture
+- Holism vs. reductionism
+- Idiographic vs. nomothetic approaches
 
-Gender bias and culture bias
-Ethical implications of socially sensitive research
-Free will vs. determinism
-Nature vs. nurture
-Holism vs. reductionism
-Idiographic vs. nomothetic approaches
-This is a synoptic topic, meaning you are expected to illustrate your answers with knowledge and understanding of topics studied elsewhere in the specification.
+This is a **synoptic topic**, meaning you are expected to illustrate your answers with knowledge and understanding of topics studied elsewhere in the specification.
 
-Types of Essay Questions
-Without a stem:
+### Types of Essay Questions
 
-E.g., Discuss the nature-nurture debate in psychology [16 marks]
-AO1 = 6 marks, AO3 = 10 marks
-With a stem:
+**Without a stem:**
+- E.g., *Discuss the nature-nurture debate in psychology [16 marks]*
+  - AO1 = 6 marks, AO3 = 10 marks
 
-E.g., Discuss culture bias in psychological research. Refer to one topic you have studied in your answer [8 marks]
-AO1 = 3 marks, AO2 = 2 marks, AO3 = 3 marks
-'Discuss' questions invite broader commentary than a straightforward assessment of strengths and weaknesses:
+**With a stem:**
+- E.g., *Discuss culture bias in psychological research. Refer to one topic you have studied in your answer [8 marks]*
+  - AO1 = 3 marks, AO2 = 2 marks, AO3 = 3 marks
 
-The merits of both sides of a debate
-The overall contributions to psychology made by each side
-How both sides can work together in psychological research
-The improvements that can and have been made
-How to Improve on Issues & Debates
-Think about what a debate really is — a conceptual framework, not an entity with its own stance. Avoid saying "the nurture debate argues X." Instead, outline what each perspective emphasises and then discuss how they differ.
-This impacts evaluation: Don't say "one criticism of the nurture debate is..." — say "the idea that behaviour stems solely from environmental factors is flawed as..."
-Describe how particular approaches or studies illustrate the debate — e.g., social learning theory exemplifies how environment and observation (nurture) shape behaviour. Always explicitly link each study or approach to the relevant perspective.
-Acknowledge interactionist or complex perspectives — e.g., niche-picking shows how nature and nurture interact. This is a higher-level skill showing awareness that the debate is not black-and-white.
-Worked Example
-Q. Discuss gender bias in psychological research. Refer to one topic you have studied in your answer. [8 marks]
+**'Discuss' questions** invite broader commentary than a straightforward assessment of strengths and weaknesses:
+- The merits of both sides of a debate
+- The overall contributions to psychology made by each side
+- How both sides can work together in psychological research
+- The improvements that can and have been made
 
-Model answer:
+### How to Improve on Issues & Debates
+
+- **Think about what a debate really is** — a conceptual framework, not an entity with its own stance. Avoid saying "the nurture debate argues X." Instead, outline what each perspective emphasises and then discuss how they differ.
+- **This impacts evaluation:** Don't say "one criticism of the nurture debate is..." — say "the idea that behaviour stems solely from environmental factors is flawed as..."
+- **Describe how particular approaches or studies illustrate the debate** — e.g., social learning theory exemplifies how environment and observation (nurture) shape behaviour. Always explicitly link each study or approach to the relevant perspective.
+- **Acknowledge interactionist or complex perspectives** — e.g., niche-picking shows how nature and nurture interact. This is a higher-level skill showing awareness that the debate is not black-and-white.
+
+### Worked Example
+
+**Q. Discuss gender bias in psychological research. Refer to one topic you have studied in your answer. [8 marks]**
+
+**Model answer:**
 
 Gender bias is the failure to consider adequately the differences between men and women, with an overemphasis on the importance of biology as the driver of behaviour.
 
@@ -623,157 +784,242 @@ An issue is that gender-biased research might result in androcentrism. This is t
 
 However, viewing men and women as the same has led to equal treatment in legal terms and equal access to education and employment. This suggests that gender bias in research may positively affect the lives and prospects of women in society.
 
-Word count: 288 — Level 4 response: 7–8 marks
+**Word count: 288 — Level 4 response: 7–8 marks**
 
-Examiner Commentary: This response is in the top band (Level 4) because it shows a very strong understanding of gender bias. The application is effective as an example of gender bias in psychological research has been explained in depth. The answer is coherent, focused on the question, and makes good use of key terms specific to gender bias. The evaluation is effective as the points have been introduced, elaborated thoroughly, and they clearly explain the implications of gender bias in psychological research.
+**Examiner Commentary:**
+This response is in the top band (Level 4) because it shows a very strong understanding of gender bias. The application is effective as an example of gender bias in psychological research has been explained in depth. The answer is coherent, focused on the question, and makes good use of key terms specific to gender bias. The evaluation is effective as the points have been introduced, elaborated thoroughly, and they clearly explain the implications of gender bias in psychological research.
 
-Step by step structure:
+**Step by step structure:**
+1. **Paragraph 1:** Concise definition of gender bias with some elaboration (AO1)
+2. **Paragraph 2:** Definitions of the types of bias shows strong knowledge (AO1)
+3. **Paragraph 3:** Concepts in Freud's psychodynamic approach are explicitly linked to a type of gender bias (AO2)
+4. **Paragraph 4:** An evaluation point is introduced, explained in detail using real-life examples and then linked to the implications of gender bias in research (AO3)
+5. **Paragraph 5:** A shorter evaluation point outlining the implications of gender bias provides a balanced response (AO3)
 
-Paragraph 1: Concise definition of gender bias with some elaboration (AO1)
-Paragraph 2: Definitions of the types of bias shows strong knowledge (AO1)
-Paragraph 3: Concepts in Freud's psychodynamic approach are explicitly linked to a type of gender bias (AO2)
-Paragraph 4: An evaluation point is introduced, explained in detail using real-life examples and then linked to the implications of gender bias in research (AO3)
-Paragraph 5: A shorter evaluation point outlining the implications of gender bias provides a balanced response (AO3)
-Examiner Tips for Issues & Debates
-Think carefully about the wording of the novel question set — generic and pre-prepared answers will not fit a novel scenario
-Be prepared with the topics and approaches that best illustrate each side of a debate
-Practice (or at least plan) answers to lots of examples
-Ensure your answers are coherent, legible, and include paragraphs
-Take time to plan your answer before you write it
-Ensure you know how each of the debates are distinct from one another (students confuse debates, e.g., holism vs reductionism gets mixed up with free will vs determinism and nature vs nurture)
-14. Statistical Tests Reference Table
-How to Choose the Right Test
+### Examiner Tips for Issues & Debates
+
+- Think carefully about the wording of the novel question set — generic and pre-prepared answers will not fit a novel scenario
+- Be prepared with the topics and approaches that best illustrate each side of a debate
+- Practice (or at least plan) answers to lots of examples
+- Ensure your answers are coherent, legible, and include paragraphs
+- Take time to plan your answer before you write it
+- Ensure you know how each of the debates are distinct from one another (students confuse debates, e.g., holism vs reductionism gets mixed up with free will vs determinism and nature vs nurture)
+
+---
+
+## 14. Statistical Tests Reference Table
+
+### How to Choose the Right Test
+
+```
 Step 1: Is it a test of DIFFERENCE or CORRELATION?
   ├─ CORRELATION → Step 2a
   └─ DIFFERENCE → Step 2b
+
 Step 2a (Correlation): What type of data?
   ├─ Ordinal → Spearman's rho
   └─ Interval → Pearson's r
+
 Step 2b (Difference): What experimental design?
   ├─ Independent groups → Step 3a
   └─ Repeated measures / Matched pairs → Step 3b
+
 Step 3a (Independent): What type of data?
   ├─ Nominal → Chi-squared (χ²)
   ├─ Ordinal → Mann-Whitney U
   └─ Interval → Unrelated t-test
+
 Step 3b (Related): What type of data?
   ├─ Nominal → Sign test
   ├─ Ordinal → Wilcoxon T
   └─ Interval → Related t-test
-Quick-Reference Table
-Nominal	Ordinal	Interval/Ratio
-Correlation	—	Spearman's rho	Pearson's r
-Difference — Independent	Chi-squared (χ²)	Mann-Whitney U	Unrelated t-test
-Difference — Related	Sign test	Wilcoxon T	Related t-test
-Important: Chi-Squared is a test of both difference AND association (not correlation). Spearman's rho and Pearson's r are the only tests of correlation.
+```
 
-Significance Rules
-Test	Significant when calculated value is...
-Spearman's rho	≥ critical value
-Pearson's r	≥ critical value
-Chi-squared	≥ critical value
-Mann-Whitney U	≤ critical value
-Wilcoxon T	≤ critical value
-Sign test	≤ critical value
-Unrelated t-test	≥ critical value
-Related t-test	≥ critical value
-Data Type Identification Guide
-Data Type	Description	Examples
-Nominal	Categories / frequencies	Male/Female counts, Yes/No tallies, number of people choosing option A vs B
-Ordinal	Ranked/ordered, intervals not equal	Rating scales (1–10), Likert scales, questionnaire scores, ranked positions
-Interval/Ratio	Measurable with equal intervals, true units	Time (seconds), temperature (°C), height (cm), reaction time (ms), standardised test scores
-Common Traps
-Questionnaire/rating scale scores → Ordinal (NOT interval) because the difference between points is subjective
-Standardised psychological tests with established scales → Can be treated as interval
-Time, distance, weight → Interval/ratio
-Categories counted → Nominal
-Mnemonic
-Carrots should come mashed with swede under roast potatoes
+### Quick-Reference Table
+
+|  | **Nominal** | **Ordinal** | **Interval/Ratio** |
+|--|-------------|-------------|---------------------|
+| **Correlation** | — | Spearman's rho | Pearson's r |
+| **Difference — Independent** | Chi-squared (χ²) | Mann-Whitney U | Unrelated t-test |
+| **Difference — Related** | Sign test | Wilcoxon T | Related t-test |
+
+**Important:** Chi-Squared is a test of both difference AND association (not correlation). Spearman's rho and Pearson's r are the only tests of correlation.
+
+### Significance Rules
+
+| Test | Significant when calculated value is... |
+|------|----------------------------------------|
+| Spearman's rho | ≥ critical value |
+| Pearson's r | ≥ critical value |
+| Chi-squared | ≥ critical value |
+| Mann-Whitney U | ≤ critical value |
+| Wilcoxon T | ≤ critical value |
+| Sign test | ≤ critical value |
+| Unrelated t-test | ≥ critical value |
+| Related t-test | ≥ critical value |
+
+### Data Type Identification Guide
+
+| Data Type | Description | Examples |
+|-----------|-------------|----------|
+| **Nominal** | Categories / frequencies | Male/Female counts, Yes/No tallies, number of people choosing option A vs B |
+| **Ordinal** | Ranked/ordered, intervals not equal | Rating scales (1–10), Likert scales, questionnaire scores, ranked positions |
+| **Interval/Ratio** | Measurable with equal intervals, true units | Time (seconds), temperature (°C), height (cm), reaction time (ms), standardised test scores |
+
+### Common Traps
+
+- **Questionnaire/rating scale scores → Ordinal** (NOT interval) because the difference between points is subjective
+- **Standardised psychological tests** with established scales → Can be treated as interval
+- **Time, distance, weight** → Interval/ratio
+- **Categories counted** → Nominal
+
+### Mnemonic
+
+> **Carrots should come mashed with swede under roast potatoes**
 
 This helps remember the order of the tests in the table. Practice filling out the table without notes to test recall.
 
-15. Key Evaluation Acronyms & Frameworks
-PEEL Structure (Use for EVERY AO3 point)
-Letter	Action	Example
-P — Point	State a clear strength or limitation	"A strength is that there is supporting research evidence."
-E — Evidence	Cite supporting or contradicting research, or explain the logical basis	"Gottesman & Shields (1972) found a concordance rate of 58% in MZ twins compared to 12% in DZ twins."
-E — Explain	Explain WHY this evidence supports or challenges the theory	"This supports the genetic explanation because MZ twins share 100% of their genes, so the higher concordance rate suggests genetics play a significant role."
-L — Link	Link back to the question/theory	"Therefore, there is strong evidence to suggest that schizophrenia has a genetic basis."
-Common Evaluation Points
-Evaluation Type	How to Use
-Supporting research	"A strength is that [study] found [findings], which supports [theory] because..."
-Contradicting research	"A limitation is that [study] found [findings], which challenges [theory] because..."
-Ecological validity	"A limitation is that [study] was conducted in a lab/used artificial tasks, which lacks ecological validity because..."
-Population validity	"A limitation is that [study] only used [sample type], so the findings cannot be generalised to [wider population] because..."
-Practical applications	"A strength is that [theory] has led to [therapy/intervention], which demonstrates its real-world value because..."
-Determinism vs Free will	"A limitation is that [theory] is deterministic because it suggests behaviour is caused by [factor], ignoring the role of free will..."
-Reductionism	"A limitation is that [theory] is reductionist as it reduces [complex behaviour] to [single factor], ignoring other influences such as..."
-Nature vs Nurture	"The [approach] takes a [nature/nurture] position, arguing that behaviour is primarily influenced by [genes/environment]..."
-Ethical issues	"A limitation is that the research raises ethical concerns regarding [deception/informed consent/psychological harm] because..."
-Reliability	"A strength is that the research used [standardised procedures/inter-observer reliability], making the findings more reliable because..."
-16. General Exam Technique Rules
-Universal Rules
-Always use psychological terminology — e.g., "ecological validity" not "it's not realistic"
-Always name researchers and dates when citing studies — e.g., "Loftus & Palmer (1974)"
-Never write generic evaluation — always link evaluation points to the specific theory/study in the question
-Application (AO2) must create explanatory links — do NOT just repeat the stem; explain WHY it fits the theory
-Balance strengths and limitations in evaluation — don't only criticise or only praise
-Answer the exact question — if it says "discuss," you need AO1 AND AO3; if it says "outline," focus on AO1; if it says "evaluate," focus on AO3
-Levels of Response Mark Bands
-Level	8-mark	12-mark	16-mark	Description
-4 (Top)	7–8	10–12	13–16	Detailed, accurate AO1. Effective evaluation with elaboration. Coherent, focused answer
-3	5–6	7–9	9–12	Mostly detailed AO1. Some effective evaluation. Mostly coherent
-2	3–4	4–6	5–8	Limited AO1. Basic evaluation, lacks elaboration. May lack coherence
-1	1–2	1–3	1–4	Very limited AO1. Superficial evaluation. Poorly organised
-0	0	0	0	No relevant content
-What Separates Level 3 from Level 4
-Level 3	Level 4
-Evaluation is present but not fully elaborated	Evaluation is effective — elaborated with evidence AND linked back
-Application may quote the stem without explaining why	Application creates explanatory links between theory and scenario
-Key terms may be used but not consistently	Key terms used confidently throughout
-Structure may wander	Structure is coherent and focused — clear line of argument
-May describe evaluation rather than analyse	Evaluation points clearly explain why something is a strength/limitation
-17. Dos and Don'ts
-Do ✅
-Write in continuous prose rather than bullet points
-Use appropriate key terms
-Ensure that you know all the studies specifically named on the specification
-You can include diagrams if they help explain your answer, e.g., models of memory
-Ensure you know and use studies effectively (no need to include names of researchers for studies used as evaluation or wider knowledge, but use the studies effectively)
-Your answer needs to be clear, coherent and focused
-Don't ❌
-Don't write an introduction or conclusion if it doesn't go beyond the material presented in the body of the essay
-Don't be tempted to include your own opinion — psychology is evidence-based
-You are not assessed on spelling and grammar, but your answer needs to be clear
-When evaluating, avoid using the phrase "this proves that..." — nothing is proven in psychology!
-18. Examiner Tips and Tricks
+---
+
+## 15. Key Evaluation Acronyms & Frameworks
+
+### PEEL Structure (Use for EVERY AO3 point)
+
+| Letter | Action | Example |
+|--------|--------|---------|
+| **P** — Point | State a clear strength or limitation | "A strength is that there is supporting research evidence." |
+| **E** — Evidence | Cite supporting or contradicting research, or explain the logical basis | "Gottesman & Shields (1972) found a concordance rate of 58% in MZ twins compared to 12% in DZ twins." |
+| **E** — Explain | Explain WHY this evidence supports or challenges the theory | "This supports the genetic explanation because MZ twins share 100% of their genes, so the higher concordance rate suggests genetics play a significant role." |
+| **L** — Link | Link back to the question/theory | "Therefore, there is strong evidence to suggest that schizophrenia has a genetic basis." |
+
+> **CRITICAL RULE: Every evaluation point MUST be contextualised to the specific study/theory in the question. NEVER write generic evaluation. See the templates below — you MUST fill in the [brackets] with the actual study/theory from the question, not leave them abstract.**
+
+### Common Evaluation Points (contextualise every one)
+
+| Evaluation Type | How to Use |
+|----------------|------------|
+| **Supporting research** | "A strength is that [study] found [findings], which supports [theory] because..." |
+| **Contradicting research** | "A limitation is that [study] found [findings], which challenges [theory] because..." |
+| **Ecological validity** | "A limitation is that [study] was conducted in [specific setting] using [specific task], which lacks ecological validity because [explain why this specific task/setting doesn't reflect real life for THIS topic]..." |
+| **Population validity** | "A limitation is that [study] only used [specific sample e.g. American university students], so the findings cannot be generalised to [specific wider population] because [explain specific cultural/age/gender difference]..." |
+| **Practical applications** | "A strength is that [theory] has led to [specific therapy/intervention e.g. CBT, SSRIs], which demonstrates its real-world value because [explain specific outcome]..." |
+| **Determinism vs Free will** | "A limitation is that [theory] is deterministic because it suggests [specific behaviour] is caused by [specific factor], ignoring the role of free will..." |
+| **Reductionism** | "A limitation is that [theory] is reductionist as it reduces [specific complex behaviour] to [specific single factor], ignoring other influences such as [name specific alternative factors]..." |
+| **Nature vs Nurture** | "The [approach] takes a [nature/nurture] position, arguing that [specific behaviour] is primarily influenced by [genes/environment]..." |
+| **Ethical issues** | "A limitation is that [specific study] raises ethical concerns regarding [specific issue e.g. deception in Milgram's study] because [explain specific harm/rights violation]..." |
+| **Reliability** | "A strength is that [specific study] used [specific standardised procedure], making the findings more reliable because [explain why replicability matters for THIS topic]..." |
+
+---
+
+## 16. General Exam Technique Rules
+
+### Universal Rules
+
+- **Always use psychological terminology** — e.g., "ecological validity" not "it's not realistic"
+- **Always name researchers and dates** when citing studies — e.g., "Loftus & Palmer (1974)"
+- **Never write generic evaluation** — always link evaluation points to the specific theory/study in the question
+- **Application (AO2) must create explanatory links** — do NOT just repeat the stem; explain WHY it fits the theory
+- **Balance strengths and limitations** in evaluation — don't only criticise or only praise
+- **Answer the exact question** — if it says "discuss," you need AO1 AND AO3; if it says "outline," focus on AO1; if it says "evaluate," focus on AO3
+
+### Levels of Response Mark Bands
+
+| Level | 8-mark | 12-mark | 16-mark | Description |
+|-------|--------|---------|---------|-------------|
+| **4 (Top)** | 7–8 | 10–12 | 13–16 | Detailed, accurate AO1. Effective evaluation with elaboration. Coherent, focused answer |
+| **3** | 5–6 | 7–9 | 9–12 | Mostly detailed AO1. Some effective evaluation. Mostly coherent |
+| **2** | 3–4 | 4–6 | 5–8 | Limited AO1. Basic evaluation, lacks elaboration. May lack coherence |
+| **1** | 1–2 | 1–3 | 1–4 | Very limited AO1. Superficial evaluation. Poorly organised |
+| **0** | 0 | 0 | 0 | No relevant content |
+
+### What Separates Level 3 from Level 4
+
+| Level 3 | Level 4 |
+|---------|---------|
+| Evaluation is present but not fully elaborated | Evaluation is effective — elaborated with evidence AND linked back |
+| Application may quote the stem without explaining why | Application creates explanatory links between theory and scenario |
+| Key terms may be used but not consistently | Key terms used confidently throughout |
+| Structure may wander | Structure is coherent and focused — clear line of argument |
+| May describe evaluation rather than analyse | Evaluation points clearly explain why something is a strength/limitation |
+
+---
+
+## 17. Dos and Don'ts
+
+### Do ✅
+
+- Write in **continuous prose** rather than bullet points
+- Use **appropriate key terms**
+- Ensure that you know all the **studies specifically named on the specification**
+- You can include **diagrams** if they help explain your answer, e.g., models of memory
+- Ensure you know and use studies effectively (no need to include names of researchers for studies used as evaluation or wider knowledge, but use the studies effectively)
+- Your answer needs to be **clear, coherent and focused**
+
+### Don't ❌
+
+- **NEVER write an introduction or conclusion.** All marks come from AO1, AO2 and AO3 body paragraphs ONLY. Introductions and conclusions earn ZERO marks and waste words. Start your answer immediately with the first AO1 paragraph.
+- **NEVER exceed the paragraph count** specified for each question type. More paragraphs ≠ more marks.
+- **NEVER go off-specification.** Only use theories, studies, concepts and terminology that appear on the AQA A-Level Psychology specification. Do not invent or import content from outside the spec.
+- Don't be tempted to include your **own opinion** — psychology is evidence-based
+- You are not assessed on spelling and grammar, but your answer needs to be clear
+- When evaluating, **avoid** using the phrase "this proves that..." — **nothing is proven in psychology!**
+- **NEVER write generic evaluation.** Every evaluation point must be contextualised to the specific study/theory in the question (see Section 18 for examples of generic vs contextualised evaluation).
+
+---
+
+## 18. Examiner Tips and Tricks
+
 Examiners have suggested the following advice to improve performance on extended writing questions:
 
-Read the question carefully and focus on the specific wording used
-Answer the question you have been presented with, not the one you hoped for
-Take time to plan so that you can write an organised answer focused on the specific question
-Use paragraphs to help with coherence and structure
-Engage with the stem material by making links with theory/explanations
-Elaborate on evaluation points by developing a line of argument, justifying points raised using evidence, and making use of counterarguments and alternative explanations
-Link your evaluation points back to the question
-Methodological evaluation should be specific to the study, not generic:
-❌ Generic: "The research is correlational so it doesn't show cause and effect"
-✅ Contextualised: "The research is correlational, so it doesn't show cause and effect between stress and illness. Although a relationship exists between these co-variables, it is difficult to conclude whether stress causes illness or the other way round, or if an intervening variable (e.g., poor diet) plays a role"
-19. Quick-Use Instructions for AI Models
+1. **Read the question carefully** and focus on the specific wording used
+2. **Answer the question you have been presented with**, not the one you hoped for
+3. **Take time to plan** so that you can write an organised answer focused on the specific question
+4. **Use paragraphs** to help with coherence and structure
+5. **Engage with the stem material** by making links with theory/explanations
+6. **Elaborate on evaluation points** by developing a line of argument, justifying points raised using evidence, and making use of counterarguments and alternative explanations
+7. **Link your evaluation points back to the question**
+8. **Methodological evaluation should be specific to the study, not generic:**
+   - ❌ Generic: "The research is correlational so it doesn't show cause and effect"
+   - ✅ Contextualised: "The research is correlational, so it doesn't show cause and effect between stress and illness. Although a relationship exists between these co-variables, it is difficult to conclude whether stress causes illness or the other way round, or if an intervening variable (e.g., poor diet) plays a role"
+
+---
+
+## 19. Quick-Use Instructions for AI Models
+
 When answering an AQA A-Level Psychology question:
 
-Identify the question type from the marks and command words
-Check the mark split (AO1/AO2/AO3) from the table above
-Follow the exact structure for that question type
-Match the word count target — don't overwrite or underwrite
-Use PEEL for every AO3 point — no exceptions
-If there's a stem/scenario, create explanatory links (AO2) — don't just quote it
-Use specific researchers, dates, and findings — never be vague
-Use psychological key terms throughout — this is what separates Level 3 from Level 4
-For statistical test questions, follow the decision flowchart in Section 14
-For significance questions, check one-tailed vs two-tailed, N/df, and p-value before reading the table
-Model 16-Mark Answers (Additional Reference)
-Model Answer 1: Eyewitness Testimony (No Application)
+1. **Identify the question type** from the marks and command words
+2. **Check the mark split** (AO1/AO2/AO3) from the table above
+3. **Follow the exact structure** for that question type — use the EXACT paragraph count specified
+4. **NEVER write an introduction or conclusion.** Start directly with AO1. All marks come from AO1, AO2 and AO3 paragraphs only.
+5. **Match the word count target** — don't overwrite or underwrite
+6. **Use PEEL for every AO3 point** — no exceptions
+7. **If there's a stem/scenario**, create explanatory links (AO2) — don't just quote it
+8. **Use specific researchers, dates, and findings** — never be vague
+9. **Use psychological key terms throughout** — this is what separates Level 3 from Level 4
+10. **For statistical test questions**, follow the decision flowchart in Section 14
+11. **For significance questions**, check one-tailed vs two-tailed, N/df, and p-value before reading the table
+12. **Stay on specification.** Only use theories, studies, and concepts from the AQA A-Level Psychology specification. Do not introduce material from outside the spec.
+13. **Evaluation must be contextualised, not generic.** Do NOT write "the research lacks ecological validity" — instead explain WHY it lacks validity for THIS specific study and what the implications are.
+
+### Strict Paragraph Limits
+
+| Question Type | Max Paragraphs | Notes |
+|---------------|---------------|-------|
+| 4-mark | 2 | Two PEE points |
+| 6-mark | 2 | One AO1+AO2/3 each |
+| 8-mark (no stem) | 4 | 2 AO1 + 2 AO3 |
+| 8-mark (with stem) | 4 | 2 AO1 + 1 AO2 + 1 AO3 |
+| 12-mark (design) | 4 sections | Use subheadings matching question prompts |
+| 16-mark (no stem) | 6 | 3 AO1 + 3 AO3 |
+| 16-mark (with stem) | 9 | 2–3 explanations × (AO1 + AO2 + AO3) |
+
+---
+
+## Model 16-Mark Answers (Additional Reference)
+
+### Model Answer 1: Eyewitness Testimony (No Application)
+
 Leading questions' impact on eyewitness testimony's (EWT) accuracy was examined by Loftus & Palmer (1974). After showing film clips of car accidents to American students, they questioned them about the incident. Participants were asked to describe how fast the cars were going when they hit each other. The verb "hit" implies the speed at which the car was travelling, so this was a leading question. Each of the five participant groups received a distinct verb in the crucial question, such as contacted, bumped, collided, or smashed.
 
 For every participant group, the mean estimated speed was calculated. For the verb "contacted," the mean estimated speed was 31.8 mph, and for the verb "smashed," the mean was 40.5 mph. The findings demonstrate that leading questions have an impact on EWT accuracy.
@@ -786,7 +1032,10 @@ Individual differences are a further limitation of research on false information
 
 On the other hand, one of the study's strengths is that it has significant real-world implications, as inaccurate EWT can have grave consequences. As mistaken eyewitness identification is the biggest single factor leading to the conviction of innocent people, Loftus (1975) believes that leading questions can have such a distorting effect on memory that police officers should be careful about how they phrase their questions when interviewing eyewitnesses (Wells & Olson, 2003). This demonstrates how Loftus & Palmer's work can be applied in real life to prevent miscarriages of justice.
 
-Model Answer 2: Schizophrenia (With Application / Stem)
+---
+
+### Model Answer 2: Schizophrenia (With Application / Stem)
+
 One explanation for schizophrenia (SZ) is that it is biological as it runs in families, suggesting a genetic link. The greater the genetic similarity between family members, the greater the likelihood of them developing SZ. For example, twin studies show a higher concordance rate for SZ in MZs (who share 100% of their genes) than DZs (who share 50% of their genes). There is also a link between first-degree relatives (such as parents and their children who share 50% of their genes) and shared risk of SZ.
 
 The genetic explanation could explain why Jay has SZ, as his father also had mental health problems, which he received treatment for when young. This suggests that Jay might have inherited his condition from his father's side, particularly as they are first-degree relatives who share 50% of their genes.
